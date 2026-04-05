@@ -7,7 +7,7 @@
 //
 // Usage:
 //   1. Define CSS custom properties (--mc-*) in your theme
-//   2. @use './components' as components;
+//   2. @use '../scss/components' as components;
 //   3. Call @include components.all(); at root level (HTML) or inside .reveal (Reveal.js)
 
 // ============================================================================
@@ -760,6 +760,13 @@ $mc-breakpoint-sm: 576px !default;
         border: none;
         border-radius: 0;
       }
+    }
+
+    // Plain code blocks (unknown language without sourceCode wrapper)
+    >pre {
+      margin: 0;
+      border: none;
+      border-radius: 0;
     }
   }
 }

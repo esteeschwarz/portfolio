@@ -21,8 +21,8 @@ website:
   back-to-top-navigation: true
   page-footer:
     border: true
-    background: light
-    foreground: dark
+    background: dark
+    foreground: light
     left: |
       Powered by [{{< iconify simple-icons:quarto title="Quarto Logo" label="Quarto Logo" >}} Quarto](https://quarto.org){target="_blank" rel="noopener noreferrer"}.
     center: |
