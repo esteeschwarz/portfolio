@@ -15,11 +15,10 @@
 <title>Mickaël CANOUIL</title>
 <link>https://mickael.canouil.fr/blog.html</link>
 </image>
-<generator>quarto-1.10.1</generator>
+<generator>quarto-1.10.3</generator>
 <lastBuildDate>Thu, 05 Mar 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Building Quarto Typst Templates: Advanced Patterns (Part 2)</title>
-  <dc:creator>Mickaël CANOUIL, _Ph.D._</dc:creator>
   <link>https://mickael.canouil.fr/posts/2026-03-05-typst-template-tutorial-part2/</link>
   <description><![CDATA[ 
 
@@ -5615,7 +5614,18 @@ font-style: inherit;">`my-custom-highlight`</span> Typst function via the config
 </section>
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{canouil2026,
+  author = {CANOUIL, Mickaël},
+  title = {Building {Quarto} {Typst} {Templates:} {Advanced} {Patterns}
+    {(Part} 2)},
+  date = {2026-03-05},
+  url = {https://mickael.canouil.fr/posts/2026-03-05-typst-template-tutorial-part2/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canouil2026" class="csl-entry quarto-appendix-citeas">
+CANOUIL, M. (2026, March 5). Building Quarto Typst Templates: Advanced
+Patterns (Part 2). <em>Mickael.canouil.fr</em>. <a href="https://mickael.canouil.fr/posts/2026-03-05-typst-template-tutorial-part2/">https://mickael.canouil.fr/posts/2026-03-05-typst-template-tutorial-part2/</a>
+</div></div></section></div> ]]></description>
   <category>quarto</category>
   <category>extensions</category>
   <category>typst</category>
@@ -5627,7 +5637,6 @@ font-style: inherit;">`my-custom-highlight`</span> Typst function via the config
 </item>
 <item>
   <title>Building Quarto Typst Templates: The Lua-Typst Bridge (Part 1)</title>
-  <dc:creator>Mickaël CANOUIL, _Ph.D._</dc:creator>
   <link>https://mickael.canouil.fr/posts/2026-02-27-typst-template-tutorial-part1/</link>
   <description><![CDATA[ 
 
@@ -8581,7 +8590,18 @@ font-style: inherit;">]</span>{.badge colour="danger"} items before release.</sp
 </section>
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{canouil2026,
+  author = {CANOUIL, Mickaël},
+  title = {Building {Quarto} {Typst} {Templates:} {The} {Lua-Typst}
+    {Bridge} {(Part} 1)},
+  date = {2026-02-27},
+  url = {https://mickael.canouil.fr/posts/2026-02-27-typst-template-tutorial-part1/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canouil2026" class="csl-entry quarto-appendix-citeas">
+CANOUIL, M. (2026, February 27). Building Quarto Typst Templates: The
+Lua-Typst Bridge (Part 1). <em>Mickael.canouil.fr</em>. <a href="https://mickael.canouil.fr/posts/2026-02-27-typst-template-tutorial-part1/">https://mickael.canouil.fr/posts/2026-02-27-typst-template-tutorial-part1/</a>
+</div></div></section></div> ]]></description>
   <category>quarto</category>
   <category>extensions</category>
   <category>typst</category>
@@ -8593,7 +8613,6 @@ font-style: inherit;">]</span>{.badge colour="danger"} items before release.</sp
 </item>
 <item>
   <title>Document-Type Dispatching in Quarto Typst Extensions</title>
-  <dc:creator>Mickaël CANOUIL, _Ph.D._</dc:creator>
   <link>https://mickael.canouil.fr/posts/2026-01-19-typst-document-dispatcher/</link>
   <description><![CDATA[ 
 
@@ -9645,7 +9664,17 @@ font-style: inherit;"> default</span></span></code></pre></div></div>
 </div>
 ↩︎</li>
 </ol>
-</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{canouil2026,
+  author = {CANOUIL, Mickaël},
+  title = {Document-Type {Dispatching} in {Quarto} {Typst} {Extensions}},
+  date = {2026-01-19},
+  url = {https://mickael.canouil.fr/posts/2026-01-19-typst-document-dispatcher/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canouil2026" class="csl-entry quarto-appendix-citeas">
+CANOUIL, M. (2026, January 19). Document-Type Dispatching in Quarto
+Typst Extensions. <em>Mickael.canouil.fr</em>. <a href="https://mickael.canouil.fr/posts/2026-01-19-typst-document-dispatcher/">https://mickael.canouil.fr/posts/2026-01-19-typst-document-dispatcher/</a>
+</div></div></section></div> ]]></description>
   <category>quarto</category>
   <category>extensions</category>
   <category>typst</category>
@@ -9656,7 +9685,6 @@ font-style: inherit;"> default</span></span></code></pre></div></div>
 </item>
 <item>
   <title>Quarto Wizard 2.0.0: Native Extension Management and Batch Operations</title>
-  <dc:creator>Mickaël CANOUIL, _Ph.D._</dc:creator>
   <link>https://mickael.canouil.fr/posts/2026-01-12-quarto-wizard-2-0-0/</link>
   <description><![CDATA[ 
 
@@ -9859,7 +9887,18 @@ Note
 <ol>
 <li id="fn1"><p>Not published on any registry.↩︎</p></li>
 </ol>
-</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{canouil2026,
+  author = {CANOUIL, Mickaël},
+  title = {Quarto {Wizard} 2.0.0: {Native} {Extension} {Management} and
+    {Batch} {Operations}},
+  date = {2026-01-12},
+  url = {https://mickael.canouil.fr/posts/2026-01-12-quarto-wizard-2-0-0/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canouil2026" class="csl-entry quarto-appendix-citeas">
+CANOUIL, M. (2026, January 12). Quarto Wizard 2.0.0: Native Extension
+Management and Batch Operations. <em>Mickael.canouil.fr</em>. <a href="https://mickael.canouil.fr/posts/2026-01-12-quarto-wizard-2-0-0/">https://mickael.canouil.fr/posts/2026-01-12-quarto-wizard-2-0-0/</a>
+</div></div></section></div> ]]></description>
   <category>quarto</category>
   <category>vscode</category>
   <category>positron</category>
@@ -9871,7 +9910,6 @@ Note
 </item>
 <item>
   <title>Quarto Extensions Updater: Automating Extension Maintenance with GitHub Actions</title>
-  <dc:creator>Mickaël CANOUIL, _Ph.D._</dc:creator>
   <link>https://mickael.canouil.fr/posts/2025-12-12-quarto-extensions-updater/</link>
   <description><![CDATA[ 
 
@@ -10548,7 +10586,19 @@ font-style: inherit;">](https://github.com/mcanouil/quarto-extensions-updater)</
 <ol>
 <li id="fn1"><p>Quarto CLI does not natively track installation sources as of version 1.8.24. See <a href="https://github.com/quarto-dev/quarto-cli/issues/11468">quarto-dev/quarto-cli#11468</a>.↩︎</p></li>
 </ol>
-</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{canouil2025,
+  author = {CANOUIL, Mickaël},
+  title = {Quarto {Extensions} {Updater:} {Automating} {Extension}
+    {Maintenance} with {GitHub} {Actions}},
+  date = {2025-12-12},
+  url = {https://mickael.canouil.fr/posts/2025-12-12-quarto-extensions-updater/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canouil2025" class="csl-entry quarto-appendix-citeas">
+CANOUIL, M. (2025, December 12). Quarto Extensions Updater: Automating
+Extension Maintenance with GitHub Actions. <em>Mickael.canouil.fr</em>.
+<a href="https://mickael.canouil.fr/posts/2025-12-12-quarto-extensions-updater/">https://mickael.canouil.fr/posts/2025-12-12-quarto-extensions-updater/</a>
+</div></div></section></div> ]]></description>
   <category>Quarto</category>
   <category>GitHub Actions</category>
   <category>Extensions</category>
@@ -10560,7 +10610,6 @@ font-style: inherit;">](https://github.com/mcanouil/quarto-extensions-updater)</
 </item>
 <item>
   <title>Optimising VS Code and Positron for Quarto: Essential Settings for Better Editing</title>
-  <dc:creator>Mickaël CANOUIL, _Ph.D._</dc:creator>
   <link>https://mickael.canouil.fr/posts/2025-11-20-quarto-editor-settings/</link>
   <description><![CDATA[ 
 
@@ -10933,7 +10982,19 @@ font-style: inherit;">}</span></span><div class="code-annotation-gutter-bg"></di
 <li id="fn2"><p>The Quarto extension disables Copilot by default in its configuration (see <a href="https://github.com/quarto-dev/quarto/issues/621">quarto-dev/quarto#621</a> and <a href="https://github.com/quarto-dev/quarto/blob/eac7ac2f4676908b05e746e085c1cbf23d000563/apps/vscode/package.json#L960-L962">package.json</a>). This explicit enablement is required if you want to use Copilot in your Quarto workflow.↩︎</p></li>
 <li id="fn3"><p>See <a href="https://github.com/quarto-dev/quarto/issues/670">quarto-dev/quarto#670</a> for discussion about native div folding support.↩︎</p></li>
 </ol>
-</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{canouil2025,
+  author = {CANOUIL, Mickaël},
+  title = {Optimising {VS} {Code} and {Positron} for {Quarto:}
+    {Essential} {Settings} for {Better} {Editing}},
+  date = {2025-11-20},
+  url = {https://mickael.canouil.fr/posts/2025-11-20-quarto-editor-settings/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canouil2025" class="csl-entry quarto-appendix-citeas">
+CANOUIL, M. (2025, November 20). Optimising VS Code and Positron for
+Quarto: Essential Settings for Better Editing.
+<em>Mickael.canouil.fr</em>. <a href="https://mickael.canouil.fr/posts/2025-11-20-quarto-editor-settings/">https://mickael.canouil.fr/posts/2025-11-20-quarto-editor-settings/</a>
+</div></div></section></div> ]]></description>
   <category>quarto</category>
   <category>vscode</category>
   <category>positron</category>
@@ -10944,7 +11005,6 @@ font-style: inherit;">}</span></span><div class="code-annotation-gutter-bg"></di
 </item>
 <item>
   <title>Lua Best Practices for Quarto Extensions: Building Maintainable and Robust Extensions</title>
-  <dc:creator>Mickaël CANOUIL, _Ph.D._</dc:creator>
   <link>https://mickael.canouil.fr/posts/2025-11-06-quarto-extensions-lua/</link>
   <description><![CDATA[ 
 
@@ -12460,7 +12520,19 @@ font-style: inherit;">end</span></span></code></pre></div></div>
 
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{canouil2025,
+  author = {CANOUIL, Mickaël},
+  title = {Lua {Best} {Practices} for {Quarto} {Extensions:} {Building}
+    {Maintainable} and {Robust} {Extensions}},
+  date = {2025-11-06},
+  url = {https://mickael.canouil.fr/posts/2025-11-06-quarto-extensions-lua/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canouil2025" class="csl-entry quarto-appendix-citeas">
+CANOUIL, M. (2025, November 6). Lua Best Practices for Quarto
+Extensions: Building Maintainable and Robust Extensions.
+<em>Mickael.canouil.fr</em>. <a href="https://mickael.canouil.fr/posts/2025-11-06-quarto-extensions-lua/">https://mickael.canouil.fr/posts/2025-11-06-quarto-extensions-lua/</a>
+</div></div></section></div> ]]></description>
   <category>quarto</category>
   <category>extensions</category>
   <category>productivity</category>
@@ -12472,7 +12544,6 @@ font-style: inherit;">end</span></span></code></pre></div></div>
 </item>
 <item>
   <title>Quarto Wizard 1.0.0: Democratising Quarto Extension Management</title>
-  <dc:creator>Mickaël CANOUIL, _Ph.D._</dc:creator>
   <link>https://mickael.canouil.fr/posts/2025-10-20-quarto-wizard-1-0-0/</link>
   <description><![CDATA[ 
 
@@ -12801,7 +12872,18 @@ Install <strong>Quarto Wizard</strong> today and discover how <strong>effortless
 <ol>
 <li id="fn1"><p>Quarto CLI does not natively track installation sources as of version 1.8.24 (<a href="https://github.com/quarto-dev/quarto-cli/issues/11468">quarto-dev/quarto-cli#11468</a>).↩︎</p></li>
 </ol>
-</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{canouil2025,
+  author = {CANOUIL, Mickaël},
+  title = {Quarto {Wizard} 1.0.0: {Democratising} {Quarto} {Extension}
+    {Management}},
+  date = {2025-10-20},
+  url = {https://mickael.canouil.fr/posts/2025-10-20-quarto-wizard-1-0-0/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canouil2025" class="csl-entry quarto-appendix-citeas">
+CANOUIL, M. (2025, October 20). Quarto Wizard 1.0.0: Democratising
+Quarto Extension Management. <em>Mickael.canouil.fr</em>. <a href="https://mickael.canouil.fr/posts/2025-10-20-quarto-wizard-1-0-0/">https://mickael.canouil.fr/posts/2025-10-20-quarto-wizard-1-0-0/</a>
+</div></div></section></div> ]]></description>
   <category>quarto</category>
   <category>vscode</category>
   <category>positron</category>
@@ -12813,7 +12895,6 @@ Install <strong>Quarto Wizard</strong> today and discover how <strong>effortless
 </item>
 <item>
   <title>How to use GitHub Codespaces to simplify your Quarto workshops</title>
-  <dc:creator>Mickaël CANOUIL, _Ph.D._</dc:creator>
   <link>https://mickael.canouil.fr/posts/2025-05-19-quarto-codespaces/</link>
   <description><![CDATA[ 
 
@@ -13445,7 +13526,18 @@ font-style: inherit;">}</span></span><div class="code-annotation-gutter-bg"></di
 <p>Thanks to <a href="https://github.com/cscheid">Carlos Scheidegger</a>, <a href="https://github.com/juliasilge">Julia Silge</a>, and <a href="https://github.com/coatless">James J. Balamuta</a> for their feedback and suggestions on this post.</p>
 
 
-</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{canouil2025,
+  author = {CANOUIL, Mickaël},
+  title = {How to Use {GitHub} {Codespaces} to Simplify Your {Quarto}
+    Workshops},
+  date = {2025-05-19},
+  url = {https://mickael.canouil.fr/posts/2025-05-19-quarto-codespaces/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canouil2025" class="csl-entry quarto-appendix-citeas">
+CANOUIL, M. (2025, May 19). How to use GitHub Codespaces to simplify
+your Quarto workshops. <em>Mickael.canouil.fr</em>. <a href="https://mickael.canouil.fr/posts/2025-05-19-quarto-codespaces/">https://mickael.canouil.fr/posts/2025-05-19-quarto-codespaces/</a>
+</div></div></section></div> ]]></description>
   <category>Quarto</category>
   <category>GitHub Codespaces</category>
   <category>Teaching</category>
@@ -13456,7 +13548,6 @@ font-style: inherit;">}</span></span><div class="code-annotation-gutter-bg"></di
 </item>
 <item>
   <title>Quarto: Unleash Dynamic Tabset Navigation &amp; Polished PDF Exports</title>
-  <dc:creator>Mickaël CANOUIL, _Ph.D._</dc:creator>
   <link>https://mickael.canouil.fr/posts/2025-04-21-quarto-revealjs-tabset-pdf/</link>
   <description><![CDATA[ 
 
@@ -14817,7 +14908,18 @@ font-style: inherit;">"my-slides.pdf"</span></span></code></pre></div></div>
 <ol>
 <li id="fn1"><p>Or download the file directly using the link under the table of contents.↩︎</p></li>
 </ol>
-</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{canouil2025,
+  author = {CANOUIL, Mickaël},
+  title = {Quarto: {Unleash} {Dynamic} {Tabset} {Navigation} \&amp;
+    {Polished} {PDF} {Exports}},
+  date = {2025-04-21},
+  url = {https://mickael.canouil.fr/posts/2025-04-21-quarto-revealjs-tabset-pdf/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canouil2025" class="csl-entry quarto-appendix-citeas">
+CANOUIL, M. (2025, April 21). Quarto: Unleash Dynamic Tabset Navigation
+&amp; Polished PDF Exports. <em>Mickael.canouil.fr</em>. <a href="https://mickael.canouil.fr/posts/2025-04-21-quarto-revealjs-tabset-pdf/">https://mickael.canouil.fr/posts/2025-04-21-quarto-revealjs-tabset-pdf/</a>
+</div></div></section></div> ]]></description>
   <category>Quarto</category>
   <category>Reveal.js</category>
   <category>PDF</category>
@@ -14829,7 +14931,6 @@ font-style: inherit;">"my-slides.pdf"</span></span></code></pre></div></div>
 </item>
 <item>
   <title>Quarto: Publishing to GitHub Pages</title>
-  <dc:creator>Mickaël CANOUIL, _Ph.D._</dc:creator>
   <link>https://mickael.canouil.fr/posts/2024-12-30-quarto-github-pages/</link>
   <description><![CDATA[ 
 
@@ -16438,7 +16539,17 @@ Choose the approach that best suits your needs and workflow.</p>
 
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{canouil2024,
+  author = {CANOUIL, Mickaël},
+  title = {Quarto: {Publishing} to {GitHub} {Pages}},
+  date = {2024-12-30},
+  url = {https://mickael.canouil.fr/posts/2024-12-30-quarto-github-pages/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canouil2024" class="csl-entry quarto-appendix-citeas">
+CANOUIL, M. (2024, December 30). Quarto: Publishing to GitHub Pages.
+<em>Mickael.canouil.fr</em>. <a href="https://mickael.canouil.fr/posts/2024-12-30-quarto-github-pages/">https://mickael.canouil.fr/posts/2024-12-30-quarto-github-pages/</a>
+</div></div></section></div> ]]></description>
   <category>Quarto</category>
   <category>GitHub Pages</category>
   <category>Publishing</category>
@@ -16450,7 +16561,6 @@ Choose the approach that best suits your needs and workflow.</p>
 </item>
 <item>
   <title>Quarto Q&amp;A: How to have images for both light and dark theme?</title>
-  <dc:creator>Mickaël CANOUIL, _Ph.D._</dc:creator>
   <link>https://mickael.canouil.fr/posts/2023-05-30-quarto-light-dark/</link>
   <description><![CDATA[ 
 
@@ -17720,7 +17830,18 @@ font-style: inherit;">```</span></span></code></pre></div></div>
 <li id="fn2"><p>What matters is that you have two different images, one for <code>light</code> and one for <code>dark</code> mode, respectively with <code>.light</code> and <code>.dark</code> in their names.↩︎</p></li>
 <li id="fn3"><p>The JavaScript code does not actually look for the images extensions, but for the images names.↩︎</p></li>
 </ol>
-</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{canouil2023,
+  author = {CANOUIL, Mickaël},
+  title = {Quarto {Q\&amp;A:} {How} to Have Images for Both Light and Dark
+    Theme?},
+  date = {2023-05-30},
+  url = {https://mickael.canouil.fr/posts/2023-05-30-quarto-light-dark/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canouil2023" class="csl-entry quarto-appendix-citeas">
+CANOUIL, M. (2023, May 30). Quarto Q&amp;A: How to have images for both
+light and dark theme? <em>Mickael.canouil.fr</em>. <a href="https://mickael.canouil.fr/posts/2023-05-30-quarto-light-dark/">https://mickael.canouil.fr/posts/2023-05-30-quarto-light-dark/</a>
+</div></div></section></div> ]]></description>
   <category>Quarto</category>
   <category>Q&amp;A</category>
   <category>JavaScript</category>
@@ -17733,7 +17854,6 @@ font-style: inherit;">```</span></span></code></pre></div></div>
 </item>
 <item>
   <title>Quarto Q&amp;A: How to publish your Quarto content as a Docker container?</title>
-  <dc:creator>Mickaël CANOUIL, _Ph.D._</dc:creator>
   <link>https://mickael.canouil.fr/posts/2023-05-07-quarto-docker/</link>
   <description><![CDATA[ 
 
@@ -18199,7 +18319,18 @@ font-style: inherit;">\</span></span>
 <li id="fn1"><p>See <a href="https://rstudio.github.io/renv/articles/renv.html#snapshotting-dependencies"><code>renv</code> documentation</a> for more information on snapshotting dependencies.↩︎</p></li>
 <li id="fn2"><p>See <a href="https://pak.r-lib.org/reference/index.html#lock-files"><code>pak</code> documentation</a> for more information on snapshotting dependencies.↩︎</p></li>
 </ol>
-</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{canouil2023,
+  author = {CANOUIL, Mickaël},
+  title = {Quarto {Q\&amp;A:} {How} to Publish Your {Quarto} Content as a
+    {Docker} Container?},
+  date = {2023-05-07},
+  url = {https://mickael.canouil.fr/posts/2023-05-07-quarto-docker/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canouil2023" class="csl-entry quarto-appendix-citeas">
+CANOUIL, M. (2023, May 7). Quarto Q&amp;A: How to publish your Quarto
+content as a Docker container? <em>Mickael.canouil.fr</em>. <a href="https://mickael.canouil.fr/posts/2023-05-07-quarto-docker/">https://mickael.canouil.fr/posts/2023-05-07-quarto-docker/</a>
+</div></div></section></div> ]]></description>
   <category>Quarto</category>
   <category>Q&amp;A</category>
   <category>Docker</category>
@@ -18209,7 +18340,6 @@ font-style: inherit;">\</span></span>
 </item>
 <item>
   <title>Quarto Q&amp;A: How to use non-default LaTeX packages/macros in MathJax?</title>
-  <dc:creator>Mickaël CANOUIL, _Ph.D._</dc:creator>
   <link>https://mickael.canouil.fr/posts/2023-03-12-quarto-mathjax-packages/</link>
   <description><![CDATA[ 
 
@@ -18317,7 +18447,18 @@ font-style: inherit;">---</span></span>
 
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{canouil2023,
+  author = {CANOUIL, Mickaël},
+  title = {Quarto {Q\&amp;A:} {How} to Use Non-Default {LaTeX}
+    Packages/Macros in {MathJax?}},
+  date = {2023-03-12},
+  url = {https://mickael.canouil.fr/posts/2023-03-12-quarto-mathjax-packages/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canouil2023" class="csl-entry quarto-appendix-citeas">
+CANOUIL, M. (2023, March 12). Quarto Q&amp;A: How to use non-default
+LaTeX packages/macros in MathJax? <em>Mickael.canouil.fr</em>. <a href="https://mickael.canouil.fr/posts/2023-03-12-quarto-mathjax-packages/">https://mickael.canouil.fr/posts/2023-03-12-quarto-mathjax-packages/</a>
+</div></div></section></div> ]]></description>
   <category>Quarto</category>
   <category>Q&amp;A</category>
   <category>MathJax</category>
@@ -18328,7 +18469,6 @@ font-style: inherit;">---</span></span>
 </item>
 <item>
   <title>Quarto Q&amp;A: How to have labels and captions for an unknown number of tables?</title>
-  <dc:creator>Mickaël CANOUIL, _Ph.D._</dc:creator>
   <link>https://mickael.canouil.fr/posts/2023-03-05-quarto-auto-table-crossref/</link>
   <description><![CDATA[ 
 
@@ -18581,7 +18721,19 @@ font-style: inherit;">```</span></span></code></pre></div></div>
 
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{canouil2023,
+  author = {CANOUIL, Mickaël},
+  title = {Quarto {Q\&amp;A:} {How} to Have Labels and Captions for an
+    Unknown Number of Tables?},
+  date = {2023-03-05},
+  url = {https://mickael.canouil.fr/posts/2023-03-05-quarto-auto-table-crossref/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canouil2023" class="csl-entry quarto-appendix-citeas">
+CANOUIL, M. (2023, March 5). Quarto Q&amp;A: How to have labels and
+captions for an unknown number of tables? <em>Mickael.canouil.fr</em>.
+<a href="https://mickael.canouil.fr/posts/2023-03-05-quarto-auto-table-crossref/">https://mickael.canouil.fr/posts/2023-03-05-quarto-auto-table-crossref/</a>
+</div></div></section></div> ]]></description>
   <category>Quarto</category>
   <category>Q&amp;A</category>
   <category>R</category>
@@ -18592,7 +18744,6 @@ font-style: inherit;">```</span></span></code></pre></div></div>
 </item>
 <item>
   <title>Add a Floating Table of Contents in blogdown</title>
-  <dc:creator>Mickaël CANOUIL, _Ph.D._</dc:creator>
   <link>https://mickael.canouil.fr/posts/2021-05-06-floating-toc-in-blogdown/</link>
   <description><![CDATA[ 
 
@@ -20310,7 +20461,17 @@ font-style: inherit;">;</span></span>
 
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{canouil2021,
+  author = {CANOUIL, Mickaël},
+  title = {Add a {Floating} {Table} of {Contents} in `Blogdown`},
+  date = {2021-05-06},
+  url = {https://mickael.canouil.fr/posts/2021-05-06-floating-toc-in-blogdown/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canouil2021" class="csl-entry quarto-appendix-citeas">
+CANOUIL, M. (2021, May 6). Add a Floating Table of Contents in
+`blogdown`. <em>Mickael.canouil.fr</em>. <a href="https://mickael.canouil.fr/posts/2021-05-06-floating-toc-in-blogdown/">https://mickael.canouil.fr/posts/2021-05-06-floating-toc-in-blogdown/</a>
+</div></div></section></div> ]]></description>
   <category>R</category>
   <category>blogdown</category>
   <category>rmarkdown</category>
@@ -20322,7 +20483,6 @@ font-style: inherit;">;</span></span>
 </item>
 <item>
   <title>A ggplot2 and gganimate Version of Pac-Man</title>
-  <dc:creator>Mickaël CANOUIL, _Ph.D._</dc:creator>
   <link>https://mickael.canouil.fr/posts/2020-05-06-ggpacman/</link>
   <description><![CDATA[ 
 
@@ -26303,7 +26463,17 @@ font-style: inherit;">transition_manual</span>(step)</span></code></pre></div></
 </section>
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{canouil2020,
+  author = {CANOUIL, Mickaël},
+  title = {A `Ggplot2` and `Gganimate` {Version} of {Pac-Man}},
+  date = {2020-05-06},
+  url = {https://mickael.canouil.fr/posts/2020-05-06-ggpacman/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canouil2020" class="csl-entry quarto-appendix-citeas">
+CANOUIL, M. (2020, May 6). A `ggplot2` and `gganimate` Version of
+Pac-Man. <em>Mickael.canouil.fr</em>. <a href="https://mickael.canouil.fr/posts/2020-05-06-ggpacman/">https://mickael.canouil.fr/posts/2020-05-06-ggpacman/</a>
+</div></div></section></div> ]]></description>
   <category>R</category>
   <category>Visualisation</category>
   <category>ggplot2</category>
