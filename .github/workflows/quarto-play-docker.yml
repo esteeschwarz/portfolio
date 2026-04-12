@@ -2,8 +2,8 @@ name: quarto play pages
 on:
   push:
     paths: 
-     - _quarto.yml
-     - **/*.qmd
+     - "_quarto.yml"
+     - "**/*.qmd"
     branches: [ main ]
   workflow_dispatch:
 
