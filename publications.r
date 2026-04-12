@@ -1,5 +1,7 @@
 #!/usr/bin/env Rscript
 
+# install.packages(c("rmarkdown","knitr"))
+
 if (
   !nzchar(Sys.getenv("QUARTO_PROJECT_RENDER_ALL")) &&
     grepl("publications.qmd", Sys.getenv("QUARTO_PROJECT_INPUT_FILES"))
