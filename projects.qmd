@@ -12,17 +12,24 @@ listing:
     filter-ui: true
     max-description-length: 300
     page-size: 9
-    fields: [image, title, description, categories]
+    # fields: [image, title, description, categories]
+    fields: [description, categories]
     feed:
       language: en-gb
     contents:
 
-      - path: https://github.com/mcanouil/quarto-extensions-updater
-        image: /projects/quarto-extensions-updater.png
-        title: "Quarto Extensions Updater (GitHub Action)"
-        description: 'A GitHub Action that automatically updates Quarto extensions in your repository, similar to how Dependabot manages dependencies.'
-        date: "2025-10-19"
-        categories: [Quarto, Extension, GitHub Action, Quarto Wizard]
+      - path: https://esteeschwarz.github.io/DC-LX/essais/germanic/001/
+        image: /projects/gemini.png
+        title: "AI speech in human natural language"
+        description: 'Study on manifestation of model typical language in human language corpora.'
+        date: "2026-03-29"
+        categories: [AI,corpus linguistics]
+      - path: https://esteeschwarz.github.io/DC-LX/essais//sbc/
+        image: /projects/sbc.png
+        title: "SPUND: corpus LX - santa barbara corpus essai"
+        description: 'corpus building essai.'
+        date: "2025-11-10"
+        categories: [corpus linguistics,SBC]
 
       - path: https://github.com/mcanouil/quarto-revealjs-tabset
         image: /projects/quarto-revealjs-tabset.png

@@ -110,7 +110,7 @@ My [Awesome Quarto repository](https://github.com/mcanouil/awesome-quarto) serve
 :::
 ## {{< iconify octicon:mortar-board-24 >}} Teaching
 
-I have developed tutorial material covering archiving and building upon corpora from digitized written and spoken material.
+I have developed class tutorial workflows covering archiving and building upon corpora from digitized written and spoken material.
 
 ## {{< iconify octicon:tools-24 >}} Technical Skills {.interests}
 
