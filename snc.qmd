@@ -6,3 +6,4 @@ image: /assets/images/social-profile.png
 # 16162.snc
 - t1
 - t3
+- https://github.com/quarto-dev/quarto-cli/releases/download/v1.9.36/quarto-1.9.36-linux-amd64.deb
