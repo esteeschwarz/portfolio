@@ -127,4 +127,4 @@ create_pub_listing <- function(bib_file, author = "Canouil") {
   )
 }
 
-create_pub_listing("publications.bib")
+#create_pub_listing("publications.bib")

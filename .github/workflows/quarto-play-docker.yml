@@ -1,17 +1,14 @@
 name: quarto play pages
 on:
   push:
-    paths: ['play/quarto/start/**']
+    paths: 
+     - _quarto.yml
+     - **/*.qmd
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
-    paths:
-      - **/*.qmd
-      - _quarto.yml
   workflow_dispatch:
 
-#14056.f1
-#name: R-CMD-check
+# 14056.f1
+# name: R-CMD-check
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   # contents: read
