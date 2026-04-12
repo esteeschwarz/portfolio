@@ -44,6 +44,7 @@ website:
         href: blog.qmd
       - text: Projects
         href: projects.qmd
+      - snc.qmd
       # - text: Talks
       #   href: talks.qmd
       # - text: Publications
