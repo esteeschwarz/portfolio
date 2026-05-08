@@ -1,0 +1,53 @@
+---
+title: "class of 26"
+description: |
+  forward to sommersemester 2026 class documentations and most recent essais
+date: "2026-05-08"
+categories:
+  - quarto
+  - linguistics
+  - AVL
+  - language
+image: featured.png
+image-alt: "screenshot summersemester 26 projects page"
+number-sections: false
+include-in-header:
+  - text: |
+     <style>
+     .fadenlogo {
+        display: inline-block;
+        aspect-ratio: 1 / 1;
+        height: 1em;
+        margin-bottom: -0.15em;
+        mask-image: url('../../assets/images/fadenlogo-fwb.svg');
+        mask-size: contain;
+        mask-repeat: no-repeat;
+        mask-position: center;
+        background-color: currentColor;
+        vertical-align: baseline;
+      }
+      </style>
+fadenlogo: '[]{.fadenlogo title="rotefaden Logo" aria-label="rotefaden Logo"}'
+---
+
+![](featured.png){
+  .img-featured
+  .img-fluid
+  fig-align="center"
+  fig-alt='{{< meta image-alt >}}'
+  width="600px"
+}
+
+**{{< meta fadenlogo >}} FWB** redirect...
+
+:::: {.highlight}
+
+**{{< meta fadenlogo >}} FWB** > go now to __*[recent relevant learnings](https://esteeschwarz.github.io/SPUND-LX/pages/004/about.html)*__. 
+
+there you'll find an overview of summersemester 2026 papers, essais, projects and linked documentation related. this is all in-progress and documenting recent research and studies.
+:::
+
+::: {.callout-note}
+you will be redirected...
+:::
+
