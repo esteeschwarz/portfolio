@@ -19,12 +19,14 @@ listing:
     contents:
 
       - path: https://esteeschwarz.github.io/DC-LX/essais/germanic/001/
+        repo: https://github.com/esteeschwarz/SPUND-LX/tree/main/germanic/HA
         image: /projects/gemini.png
         title: "AI speech in human natural language"
         description: 'Study on manifestation of model typical language in human language corpora.'
         date: "2026-03-29"
         categories: [AI,corpus linguistics]
       - path: https://esteeschwarz.github.io/DC-LX/essais/sbc/
+        repo: https://github.com/esteeschwarz/SPUND-LX/tree/main/corpusLX
         image: /projects/sbc.png
         title: "SPUND: corpus LX - santa barbara corpus essai"
         description: 'corpus building essai.'
