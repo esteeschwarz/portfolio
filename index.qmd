@@ -54,12 +54,12 @@ about:
 
 :::: {.about-body}
 
-<del>I am a linguist consultant in __*Biostatistics*__ and a __*freelance*__ developer specialising in the Quarto and R ecosystems.  
-I combine expertise in genetics and multi-omics analysis with open-source development, bridging academic/private research with practical tool creation.</del>
+I am a linguistics and comparative literature student researcher specialised in __*corpus & discourse linguistics, distant reading methods and data analysis*__ and a __*programmer*__ within the R ecosystem.  
+I combine expertise in programming and data analysis with a fascination for archives, languages, literature and math resp. statistics bridging academic/private research within the broad field of the __*Digital Humanies*__.</del>
 
 :::: {.highlight}
 
-<del>I am __*available*__ for both short-term and extended engagements on __*Quarto related projects*__.</del>
+I am __*available*__ for both short-term and extended engagements on __*projects related to below skills and interests*__.
 
 <!-- :::
 
@@ -78,10 +78,8 @@ I also enjoy watching movies (![](https://raw.githubusercontent.com/mcanouil/imd
 :::
 
 ## {{< iconify octicon:briefcase-24 >}} What I Do
+If I come to a really interesting task, i can spend much effort into developing scripts and routines for corpus building or data/literature analysis up to publication of the results in nice looking papers or online. I sometimes have difficulties to indeed find that interesting task or research question, but with that in hand can't stop coding...  
 
-<del>I translate complex biostatistical challenges into elegant, user-friendly solutions.
-My work spans multi-omics data analysis (*e.g.*, genetics, proteomics, metabolomics, transcriptomics, *etc.*) mostly in a research setting, R package development, and Quarto ecosystem contributions.
-</del>
 ## {{< iconify octicon:beaker-24 >}} Research & Publications
 
 :::: {.highlight}
@@ -133,6 +131,7 @@ I have developed class tutorial workflows covering archiving and building upon c
 - data analysis & visualisation, QDA
 - reproducible / open source research
 - distant reading approaches to literature
+- general: computational linguistics and DH
 
 ## {{< iconify octicon:mortar-board-24 >}} Education {.education}
 
