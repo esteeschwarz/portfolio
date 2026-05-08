@@ -1,5 +1,5 @@
 ---
-title: "st. schwarz"
+title: "portfolio - st. schwarz"
 subtitle: |
   linguistics / komparatistik / DH
 image: assets/images/dcl-head-niemand.png
