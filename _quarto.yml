@@ -10,8 +10,8 @@ website:
   description: "portfolio site st. schwarz"
   favicon: /assets/images/fadenlogo-fwb.png
   image: /assets/images/fadenlogo-fwb.png
-  site-url: https://ids.dh-index.org
-  repo-url: https://github.com/esteeschwarz/DH_essais
+  site-url: https://esteeschwarz.github.io/portfolio
+  repo-url: https://github.com/esteeschwarz/portfolio
   repo-actions: [edit, issue]
   repo-link-target: _blank
   repo-link-rel: noopener noreferrer
@@ -26,7 +26,7 @@ website:
     left: |
       Powered by [{{< iconify simple-icons:quarto title="Quarto Logo" label="Quarto Logo" >}} Quarto](https://quarto.org){target="_blank" rel="noopener noreferrer"}.
     center: |
-      &copy; []{#current-year} [st. schwarz](https://ids.dh-index.org){target="_blank" rel="noopener noreferrer"}.
+      &copy; []{#current-year} [st. schwarz](https://esteeschwarz.github.io/portfolio){target="_blank" rel="noopener noreferrer"}.
     right: |
       License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0){target="_blank" rel="noopener noreferrer"}, Design: [Mickaël CANOUIL](https://github.com/mcanouil/mickael.canouil.fr/tree/main){target="_blank" rel="noopener noreferrer"}.
   navbar:
