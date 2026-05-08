@@ -52,15 +52,16 @@ Note
 
 
 
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{canouil2026,
-  author = {CANOUIL, Mickaël},
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{schwarz2026,
+  author = {schwarz, st.},
   title = {Dh Essais},
   date = {2026-05-08},
   url = {https://ids.dh-index.org/posts/2026-05-08-dcl-re/},
   langid = {en-GB}
 }
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canouil2026" class="csl-entry quarto-appendix-citeas">
-CANOUIL, M. (2026, May 8). dh essais. <em>Mickael.canouil.fr</em>. <a href="https://ids.dh-index.org/posts/2026-05-08-dcl-re/">https://ids.dh-index.org/posts/2026-05-08-dcl-re/</a>
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-schwarz2026" class="csl-entry quarto-appendix-citeas">
+<span class="nocase">schwarz, st.</span> (2026, May 8). dh essais.
+<em>Esteeschwarz.github.io/Portfolio</em>. <a href="https://ids.dh-index.org/posts/2026-05-08-dcl-re/">https://ids.dh-index.org/posts/2026-05-08-dcl-re/</a>
 </div></div></section></div> ]]></description>
   <category>programming</category>
   <category>linguistics</category>
