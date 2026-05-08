@@ -8,11 +8,11 @@ project:
 website:
   title: "st. schwarz"
   description: "portfolio site st. schwarz"
-  favicon: /assets/images/fadenlogo-fwb.png
-  image: /assets/images/fadenlogo-fwb.png
+  favicon: /assets/images/fadenlogo-fwb.svg
+  image: /assets/images/fadenlogo-fwb.svg
   site-url: https://esteeschwarz.github.io/portfolio
   repo-url: https://github.com/esteeschwarz/portfolio
-  repo-actions: [edit, issue]
+  repo-actions: [edit]
   repo-link-target: _blank
   repo-link-rel: noopener noreferrer
   open-graph: true
