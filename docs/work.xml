@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>st. schwarz</title>
+<link>https://esteeschwarz.github.io/portfolio/work.html</link>
+<atom:link href="https://esteeschwarz.github.io/portfolio/work.xml" rel="self" type="application/rss+xml"/>
+<description>portfolio site st. schwarz</description>
+<language>en-gb</language>
+<image>
+<url>https://esteeschwarz.github.io/portfolio/assets/images/social-profile.png</url>
+<title>st. schwarz</title>
+<link>https://esteeschwarz.github.io/portfolio/work.html</link>
+</image>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Fri, 08 May 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>class of 26</title>
+  <link>https://esteeschwarz.github.io/portfolio/posts/2026-05-08-ss26/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="featured.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://esteeschwarz.github.io/portfolio/posts/2026-05-08-ss26/featured.png" class="img-featured img-fluid quarto-figure quarto-figure-center figure-img" alt="screenshot summersemester 26 projects page" width="600"></a></p>
+</figure>
+</div>
+<p><strong><span class="fadenlogo" title="rotefaden Logo" aria-label="rotefaden Logo"></span> FWB</strong> redirect…</p>
+<div class="highlight">
+<p><strong><span class="fadenlogo" title="rotefaden Logo" aria-label="rotefaden Logo"></span> FWB</strong> &gt; go now to <strong><em><a href="https://esteeschwarz.github.io/SPUND-LX/pages/004/about.html">SS26 class docs</a></em></strong>.</p>
+<p>there you’ll find an overview of summersemester 2026 papers, essais, projects and linked documentation related. this is all in-progress and documenting recent research and studies.</p>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>you will be redirected…</p>
+</div>
+</div>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{schwarz2026,
+  author = {schwarz, st.},
+  title = {Class of 26},
+  date = {2026-05-08},
+  url = {https://esteeschwarz.github.io/portfolio/posts/2026-05-08-ss26/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-schwarz2026" class="csl-entry quarto-appendix-citeas">
+<span class="nocase">schwarz, st.</span> (2026, May 8). class of 26.
+<em>Esteeschwarz.github.io/Portfolio</em>. <a href="https://esteeschwarz.github.io/portfolio/posts/2026-05-08-ss26/">https://esteeschwarz.github.io/portfolio/posts/2026-05-08-ss26/</a>
+</div></div></section></div> ]]></description>
+  <category>quarto</category>
+  <category>linguistics</category>
+  <category>AVL</category>
+  <category>language</category>
+  <guid>https://esteeschwarz.github.io/portfolio/posts/2026-05-08-ss26/</guid>
+  <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://esteeschwarz.github.io/portfolio/posts/2026-05-08-ss26/featured.png" medium="image" type="image/png" height="95" width="144"/>
+</item>
+<item>
+  <title>DH Essais</title>
+  <link>https://esteeschwarz.github.io/portfolio/posts/2026-05-08-dcl-re/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="featured.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://esteeschwarz.github.io/portfolio/posts/2026-05-08-dcl-re/featured.png" class="img-featured img-fluid quarto-figure quarto-figure-center figure-img" alt="mermaid diagram of dc-lx workflow" width="600"></a></p>
+</figure>
+</div>
+<p><strong><span class="fadenlogo" title="rotefaden Logo" aria-label="rotefaden Logo"></span> FWB</strong> redirect…</p>
+<div class="highlight">
+<p><strong><span class="fadenlogo" title="rotefaden Logo" aria-label="rotefaden Logo"></span> FWB</strong> &gt; go now to <strong><em><a href="https://esteeschwarz.github.io/DC-LX/blog/">recent relevant learnings</a></em></strong>.</p>
+<p>there you’ll find an overview of most has been worked on papers, projects and linked documentation related. not all is in status <em>-finished-</em> so development there is still going on and that page will display recent updates rather than here…</p>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>you will be redirected…</p>
+</div>
+</div>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{schwarz2026,
+  author = {schwarz, st.},
+  title = {DH {Essais}},
+  date = {2026-05-08},
+  url = {https://esteeschwarz.github.io/portfolio/posts/2026-05-08-dcl-re/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-schwarz2026" class="csl-entry quarto-appendix-citeas">
+<span class="nocase">schwarz, st.</span> (2026, May 8). DH Essais.
+<em>Esteeschwarz.github.io/Portfolio</em>. <a href="https://esteeschwarz.github.io/portfolio/posts/2026-05-08-dcl-re/">https://esteeschwarz.github.io/portfolio/posts/2026-05-08-dcl-re/</a>
+</div></div></section></div> ]]></description>
+  <category>programming</category>
+  <category>linguistics</category>
+  <category>AVL</category>
+  <category>webdesign</category>
+  <category>archiving</category>
+  <category>language</category>
+  <guid>https://esteeschwarz.github.io/portfolio/posts/2026-05-08-dcl-re/</guid>
+  <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://esteeschwarz.github.io/portfolio/posts/2026-05-08-dcl-re/featured.png" medium="image" type="image/png" height="96" width="144"/>
+</item>
+</channel>
+</rss>
