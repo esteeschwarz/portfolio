@@ -1,7 +1,7 @@
 ---
-title: "dh essais"
+title: "DH Essais"
 description: |
-  forward to digital humanities recent relevant learnings overview at dahlem center for linguistics project page proposal (sample project view)
+  forward to digital humanities recent relevant learnings overview at dahlem center for linguistics project page proposal
 date: "2026-05-08"
 categories:
   - programming
