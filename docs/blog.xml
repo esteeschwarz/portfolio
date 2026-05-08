@@ -16,6 +16,61 @@
 <link>https://ids.dh-index.org/blog.html</link>
 </image>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Fri, 08 May 2026 12:52:27 GMT</lastBuildDate>
+<lastBuildDate>Fri, 08 May 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>dh essais</title>
+  <link>https://ids.dh-index.org/posts/2026-05-08-dcl-re/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="featured.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://ids.dh-index.org/posts/2026-05-08-dcl-re/featured.png" class="img-featured img-fluid quarto-figure quarto-figure-center figure-img" alt="mermaid diagram of dc-lx workflow" width="600"></a></p>
+</figure>
+</div>
+<p><strong><span class="fadenlogo" title="rotefaden Logo" aria-label="rotefaden Logo"></span> FWB</strong> redirect…</p>
+<div class="highlight">
+<p><strong><span class="fadenlogo" title="rotefaden Logo" aria-label="rotefaden Logo"></span> FWB</strong> &gt; go now to <a href="https://esteeschwarz.github.io/DC-LX/blog/">recent relevant learnings</a>.</p>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>you will be redirected…</p>
+</div>
+</div>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_gb">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{canouil2026,
+  author = {CANOUIL, Mickaël},
+  title = {Dh Essais},
+  date = {2026-05-08},
+  url = {https://ids.dh-index.org/posts/2026-05-08-dcl-re/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canouil2026" class="csl-entry quarto-appendix-citeas">
+CANOUIL, M. (2026, May 8). dh essais. <em>Mickael.canouil.fr</em>. <a href="https://ids.dh-index.org/posts/2026-05-08-dcl-re/">https://ids.dh-index.org/posts/2026-05-08-dcl-re/</a>
+</div></div></section></div> ]]></description>
+  <category>programming</category>
+  <category>linguistics</category>
+  <category>AVL</category>
+  <category>webdesign</category>
+  <category>archiving</category>
+  <category>language</category>
+  <guid>https://ids.dh-index.org/posts/2026-05-08-dcl-re/</guid>
+  <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://ids.dh-index.org/posts/2026-05-08-dcl-re/featured.png" medium="image" type="image/png" height="96" width="144"/>
+</item>
 </channel>
 </rss>
