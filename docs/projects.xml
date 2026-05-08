@@ -6,36 +6,36 @@
       version="2.0">
 <channel>
 <title>st. schwarz</title>
-<link>https://ids.dh-index.org/projects.html</link>
-<atom:link href="https://ids.dh-index.org/projects.xml" rel="self" type="application/rss+xml"/>
+<link>https://esteeschwarz.github.io/portfolio/projects.html</link>
+<atom:link href="https://esteeschwarz.github.io/portfolio/projects.xml" rel="self" type="application/rss+xml"/>
 <description>portfolio site st. schwarz</description>
 <language>en-gb</language>
 <image>
-<url>https://ids.dh-index.org/assets/images/social-profile.png</url>
+<url>https://esteeschwarz.github.io/portfolio/assets/images/social-profile.png</url>
 <title>st. schwarz</title>
-<link>https://ids.dh-index.org/projects.html</link>
+<link>https://esteeschwarz.github.io/portfolio/projects.html</link>
 </image>
 <generator>quarto-1.9.37</generator>
 <lastBuildDate>Sun, 29 Mar 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>AI speech in human natural language</title>
-  <link>https://ids.dh-index.org/</link>
+  <link>https://esteeschwarz.github.io/portfolio/</link>
   <description>Study on manifestation of model typical language in human language corpora.</description>
   <category>AI</category>
   <category>corpus linguistics</category>
-  <guid>https://ids.dh-index.org/</guid>
+  <guid>https://esteeschwarz.github.io/portfolio/</guid>
   <pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://ids.dh-index.org/projects/gemini.png" medium="image" type="image/png" height="90" width="144"/>
+  <media:content url="https://esteeschwarz.github.io/portfolio/projects/gemini.png" medium="image" type="image/png" height="90" width="144"/>
 </item>
 <item>
   <title>SPUND: corpus LX - santa barbara corpus essai</title>
-  <link>https://ids.dh-index.org/</link>
+  <link>https://esteeschwarz.github.io/portfolio/</link>
   <description>corpus building essai.</description>
   <category>corpus linguistics</category>
   <category>SBC</category>
-  <guid>https://ids.dh-index.org/</guid>
+  <guid>https://esteeschwarz.github.io/portfolio/</guid>
   <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://ids.dh-index.org/projects/sbc.png" medium="image" type="image/png" height="102" width="144"/>
+  <media:content url="https://esteeschwarz.github.io/portfolio/projects/sbc.png" medium="image" type="image/png" height="102" width="144"/>
 </item>
 </channel>
 </rss>

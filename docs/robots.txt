@@ -1,1 +1,1 @@
-Sitemap: https://ids.dh-index.org/sitemap.xml
+Sitemap: https://esteeschwarz.github.io/portfolio/sitemap.xml

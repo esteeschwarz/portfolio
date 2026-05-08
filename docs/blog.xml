@@ -6,20 +6,20 @@
       version="2.0">
 <channel>
 <title>st. schwarz</title>
-<link>https://ids.dh-index.org/blog.html</link>
-<atom:link href="https://ids.dh-index.org/blog.xml" rel="self" type="application/rss+xml"/>
+<link>https://esteeschwarz.github.io/portfolio/blog.html</link>
+<atom:link href="https://esteeschwarz.github.io/portfolio/blog.xml" rel="self" type="application/rss+xml"/>
 <description>portfolio site st. schwarz</description>
 <language>en-gb</language>
 <image>
-<url>https://ids.dh-index.org/assets/images/social-profile.png</url>
+<url>https://esteeschwarz.github.io/portfolio/assets/images/social-profile.png</url>
 <title>st. schwarz</title>
-<link>https://ids.dh-index.org/blog.html</link>
+<link>https://esteeschwarz.github.io/portfolio/blog.html</link>
 </image>
 <generator>quarto-1.9.37</generator>
 <lastBuildDate>Fri, 08 May 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>dh essais</title>
-  <link>https://ids.dh-index.org/posts/2026-05-08-dcl-re/</link>
+  <link>https://esteeschwarz.github.io/portfolio/posts/2026-05-08-dcl-re/</link>
   <description><![CDATA[ 
 
 
@@ -29,7 +29,7 @@
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="featured.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://ids.dh-index.org/posts/2026-05-08-dcl-re/featured.png" class="img-featured img-fluid quarto-figure quarto-figure-center figure-img" alt="mermaid diagram of dc-lx workflow" width="600"></a></p>
+<p><a href="featured.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://esteeschwarz.github.io/portfolio/posts/2026-05-08-dcl-re/featured.png" class="img-featured img-fluid quarto-figure quarto-figure-center figure-img" alt="mermaid diagram of dc-lx workflow" width="600"></a></p>
 </figure>
 </div>
 <p><strong><span class="fadenlogo" title="rotefaden Logo" aria-label="rotefaden Logo"></span> FWB</strong> redirect…</p>
@@ -56,12 +56,12 @@ Note
   author = {schwarz, st.},
   title = {Dh Essais},
   date = {2026-05-08},
-  url = {https://ids.dh-index.org/posts/2026-05-08-dcl-re/},
+  url = {https://esteeschwarz.github.io/portfolio/posts/2026-05-08-dcl-re/},
   langid = {en-GB}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-schwarz2026" class="csl-entry quarto-appendix-citeas">
 <span class="nocase">schwarz, st.</span> (2026, May 8). dh essais.
-<em>Esteeschwarz.github.io/Portfolio</em>. <a href="https://ids.dh-index.org/posts/2026-05-08-dcl-re/">https://ids.dh-index.org/posts/2026-05-08-dcl-re/</a>
+<em>Esteeschwarz.github.io/Portfolio</em>. <a href="https://esteeschwarz.github.io/portfolio/posts/2026-05-08-dcl-re/">https://esteeschwarz.github.io/portfolio/posts/2026-05-08-dcl-re/</a>
 </div></div></section></div> ]]></description>
   <category>programming</category>
   <category>linguistics</category>
@@ -69,9 +69,9 @@ Note
   <category>webdesign</category>
   <category>archiving</category>
   <category>language</category>
-  <guid>https://ids.dh-index.org/posts/2026-05-08-dcl-re/</guid>
+  <guid>https://esteeschwarz.github.io/portfolio/posts/2026-05-08-dcl-re/</guid>
   <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://ids.dh-index.org/posts/2026-05-08-dcl-re/featured.png" medium="image" type="image/png" height="96" width="144"/>
+  <media:content url="https://esteeschwarz.github.io/portfolio/posts/2026-05-08-dcl-re/featured.png" medium="image" type="image/png" height="96" width="144"/>
 </item>
 </channel>
 </rss>
