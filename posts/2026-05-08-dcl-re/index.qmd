@@ -21,7 +21,7 @@ include-in-header:
         aspect-ratio: 1 / 1;
         height: 1em;
         margin-bottom: -0.15em;
-        mask-image: url('assets/images/fadenlogo-fwb.svg');
+        mask-image: url('../../assets/images/fadenlogo-fwb.svg');
         mask-size: contain;
         mask-repeat: no-repeat;
         mask-position: center;

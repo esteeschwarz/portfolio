@@ -9,17 +9,17 @@ title-block-banner: true
 
 authors:
   - name:
-      given: Mickaël
-      family: CANOUIL
-    degrees: "Ph.D."
-    email: pro@mickael.canouil.dev
-    orcid: 0000-0002-3396-4549
-    url: https://mickael.canouil.fr
+      given: st.
+      family: schwarz
+    degrees: "- no? -"
+    email: #
+    orcid: #
+    url: https://esteeschwarz.github.io/portfolio
 license: CC BY-NC-SA
 
 citation:
   type: post-weblog
-  container-title: "mickael.canouil.fr"
+  container-title: "esteeschwarz.github.io/portfolio"
 csl: ../assets/apa.csl
 
 lightbox: true
@@ -31,16 +31,16 @@ toc: true
 number-sections: true
 back-to-top-navigation: true
 
-comments:
-  giscus:
-    mapping: title
-    theme:
-      dark: dark_dimmed
-      light: light
-    repo: "{{GISCUS_REPO}}"
-    repo-id: "{{GISCUS_REPO_ID}}"
-    category: "{{GISCUS_CATEGORY}}"
-    category-id: "{{GISCUS_CATEGORY_ID}}"
+# comments:
+#   giscus:
+#     mapping: title
+#     theme:
+#       dark: dark_dimmed
+#       light: light
+#     repo: "{{GISCUS_REPO}}"
+#     repo-id: "{{GISCUS_REPO_ID}}"
+#     category: "{{GISCUS_CATEGORY}}"
+#     category-id: "{{GISCUS_CATEGORY_ID}}"
 
 knitr:
   opts_chunk:
