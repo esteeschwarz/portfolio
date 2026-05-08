@@ -1,0 +1,64 @@
+---
+title: "dh essais"
+description: |
+  forward to digital humanities recent relevant learnings overview at dahlem center for linguistics project page proposal (sample project view)
+date: "2026-05-08"
+categories:
+  - programming
+  - linguistics
+  - AVL
+  - webdesign
+  - archiving
+  - language
+image: featured.png
+image-alt: "mermaid diagram of dc-lx workflow"
+number-sections: false
+include-in-header:
+  - text: |
+     <style>
+     .fadenlogo {
+        display: inline-block;
+        aspect-ratio: 1 / 1;
+        height: 1em;
+        margin-bottom: -0.15em;
+        mask-image: url('assets/images/fadenlogo-fwb.svg');
+        mask-size: contain;
+        mask-repeat: no-repeat;
+        mask-position: center;
+        background-color: currentColor;
+        vertical-align: baseline;
+      }
+      </style>
+fadenlogo: '[]{.fadenlogo title="rotefaden Logo" aria-label="rotefaden Logo"}'
+# alt-text:
+#   extension-browser-1: |
+#     The extension browser interface showing extension type filters with options for Shortcodes, Filters, Formats, Reveal.js Plugins, and Projects.
+#   extension-selection: |
+#     The QuickPick dialog showing a list of discovered extensions with checkboxes for multi-selection when installing from a repository containing multiple extensions.
+#   template-files: |
+#     The QuickPick dialog showing available template files to copy with checkboxes for selective file installation.
+#   version-validation: |
+#     The warning dialog indicating that the extension version requirement is not met, showing the required and current Quarto versions with options to Install Anyway or Cancel.
+#   github-token: |
+#     The input dialog for entering a GitHub personal access token for private repository access.
+---
+
+![](featured.png){
+  .img-featured
+  .img-fluid
+  fig-align="center"
+  fig-alt='{{< meta image-alt >}}'
+  width="600px"
+}
+
+**{{< meta fadenlogo >}} FWB** redirect...
+
+:::: {.highlight}
+
+**{{< meta fadenlogo >}} FWB** > go now to [recent relevant learnings](https://esteeschwarz.github.io/DC-LX/blog/).
+:::
+
+::: {.callout-note}
+you will be redirected...
+:::
+
