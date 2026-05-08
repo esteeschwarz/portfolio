@@ -42,7 +42,7 @@ fadenlogo: '[]{.fadenlogo title="rotefaden Logo" aria-label="rotefaden Logo"}'
 
 :::: {.highlight}
 
-**{{< meta fadenlogo >}} FWB** > go now to __*[recent relevant learnings](https://esteeschwarz.github.io/SPUND-LX/pages/004/about.html)*__. 
+**{{< meta fadenlogo >}} FWB** > go now to __*[SS26 class docs](https://esteeschwarz.github.io/SPUND-LX/pages/004/about.html)*__. 
 
 there you'll find an overview of summersemester 2026 papers, essais, projects and linked documentation related. this is all in-progress and documenting recent research and studies.
 :::
