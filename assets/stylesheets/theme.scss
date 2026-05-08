@@ -1139,7 +1139,8 @@ main a:not(:where(.nav-link,
       radial-gradient(circle at 50% 20%, rgba($body-color, 0.08) 0%, transparent 20%);
     pointer-events: none;
     opacity: 0.6;
-    animation: orbsMove 20s ease-in-out infinite alternate;
+    // animation: orbsMove 20s ease-in-out infinite alternate;
+    animation: none;
   }
 
   .about-entity {
