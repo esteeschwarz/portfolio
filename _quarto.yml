@@ -38,11 +38,11 @@ website:
       # dark: assets/images/logo-light-path.svg
     logo-alt: "rotefaden logo"
     right:
-      - text: About
+      - text: about
         href: index.qmd
-      - text: Blog
-        href: blog.qmd
-      - text: Projects
+      - text: work
+        href: work.qmd
+      - text: projects
         href: projects.qmd
       - snc.qmd
       # - text: Talks
