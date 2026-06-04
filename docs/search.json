@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "talks/2019-09-06-lausanne-switzerland/index.html",
+    "href": "talks/2019-09-06-lausanne-switzerland/index.html",
+    "title": "Research Seminar",
+    "section": "",
+    "text": "Slides: https://m.canouil.dev/slides/20190906-nacho/.\nCode: https://github.com/mcanouil/NACHO_slides.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "talks/2025-10-08-devcontainer-introduction/index.html",
+    "href": "talks/2025-10-08-devcontainer-introduction/index.html",
+    "title": "Introduction to Development Containers",
+    "section": "",
+    "text": "Slides: https://m.canouil.dev/devcontainer-introduction/.\nCode: https://github.com/mcanouil/devcontainer-introduction.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "talks/2023-10-19-gentle-intro-to-quarto/index.html",
+    "href": "talks/2023-10-19-gentle-intro-to-quarto/index.html",
+    "title": "A Gentle Introduction to Quarto",
+    "section": "",
+    "text": "Slides: https://m.canouil.dev/gentle-intro-to-quarto/.\nCode: https://github.com/mcanouil/gentle-intro-to-quarto.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "talks/2019-01-21-lund-sweden/index.html",
+    "href": "talks/2019-01-21-lund-sweden/index.html",
+    "title": "A Statistical Seminar Applied on Type 2 Diabetes (Host: Pr. Paul Franks)",
+    "section": "",
+    "text": "Slides: https://m.canouil.dev/slides/20190121-joint-model-snp/.\nCode: https://github.com/mcanouil/joint_model.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "talks/2020-10-07-rlille-rstartup/index.html",
+    "href": "talks/2020-10-07-rlille-rstartup/index.html",
+    "title": "R Lille Meetup (French)",
+    "section": "",
+    "text": "Blog post: https://rlille.fr/posts/2020-09-10-debuter-avec-r/.\nMeetup: https://www.meetup.com/R-Lille/events/273159362/.\nSlides: https://m.canouil.dev/slides/20201007-r-startup/.\nCode: https://github.com/mcanouil/rstartup.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2026-05-08-ss26/index.html",
+    "href": "posts/2026-05-08-ss26/index.html",
+    "title": "class of 26",
+    "section": "",
+    "text": "FWB redirect…\n\n FWB &gt; go now to SS26 class docs.\nthere you’ll find an overview of summersemester 2026 papers, essais, projects and linked documentation related. this is all in-progress and documenting recent research and studies.\n\n\n\n\n\n\n\nNote\n\n\n\nyou will be redirected…\n\n\n\n\n\n Back to topReuseCC BY-NC-SA 4.0CitationBibTeX citation:@misc{schwarz2026,\n  author = {schwarz, st.},\n  title = {Class of 26},\n  date = {2026-05-08},\n  url = {https://esteeschwarz.github.io/portfolio/posts/2026-05-08-ss26/},\n  langid = {en-GB}\n}\nFor attribution, please cite this work as:\nschwarz, st. (2026, May 8). class of 26.\nEsteeschwarz.github.io/Portfolio. https://esteeschwarz.github.io/portfolio/posts/2026-05-08-ss26/"
+  },
+  {
+    "objectID": "snc.html",
+    "href": "snc.html",
+    "title": "SNC",
+    "section": "",
+    "text": "16162.snc\n\nt1\nt3\nhttps://github.com/quarto-dev/quarto-cli/releases/download/v1.9.36/quarto-1.9.36-linux-amd64.deb\n\n\n\n\n\n Back to top"
+  },
+  {
     "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206f637469636f6e3a6272696566636173652d3234203e7d7d-what-i-do",
     "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206f637469636f6e3a6272696566636173652d3234203e7d7d-what-i-do",
     "title": "portfolio - st. schwarz",
@@ -42,88 +91,18 @@
     "text": "Education\n\nStudium (Linguistik, Komparatistik; B.A.), 2025-\nFUB\nStudium (Linguistik, Komparatistik, Hebräisch; B.A.), 2023-2025\nFUB\nStudium (Linguistik, Komparatistik, Informatik; B.A.), 2019-2023\nFUB\nGärtnermeister (Friedhofsgartenbau), 2018\nAusbildung (Zierpflanzenbau), 2005-2008\nStudium (Politikwissenschaften, Psychologie, Erziehungswissenschaften; M.A.), 2000-2003\nFernuniversität in Hagen\nStudium (Germanistik, Politikwissenschaften; Lehramt), 1998-2000\nFUB"
   },
   {
-    "objectID": "posts/2026-05-08-ss26/index.html",
-    "href": "posts/2026-05-08-ss26/index.html",
-    "title": "class of 26",
+    "objectID": "bio.html",
+    "href": "bio.html",
+    "title": "C.V.",
     "section": "",
-    "text": "FWB redirect…\n\n FWB &gt; go now to SS26 class docs.\nthere you’ll find an overview of summersemester 2026 papers, essais, projects and linked documentation related. this is all in-progress and documenting recent research and studies.\n\n\n\n\n\n\n\nNote\n\n\n\nyou will be redirected…\n\n\n\n\n\n Back to topReuseCC BY-NC-SA 4.0CitationBibTeX citation:@misc{schwarz2026,\n  author = {schwarz, st.},\n  title = {Class of 26},\n  date = {2026-05-08},\n  url = {https://esteeschwarz.github.io/portfolio/posts/2026-05-08-ss26/},\n  langid = {en-GB}\n}\nFor attribution, please cite this work as:\nschwarz, st. (2026, May 8). class of 26.\nEsteeschwarz.github.io/Portfolio. https://esteeschwarz.github.io/portfolio/posts/2026-05-08-ss26/"
+    "text": "no serious. I am halftime to retreat so its not really angebracht to hold a funeral speech yet. But I wanted to deliver kind of summary of what I did and learned so far which could be of interest for future working together - assumed you stumbled here by some link I probably sent one way or another. \nSo…, and I warn you, this will have literary character; I not intend to be economic here. I expect people out reading who still have the capacity to read longer text and are able to translate narratives to facts. Say I will not sell that, but try advertise my expertise in some of the field mentioned in the overviews.\n\n\nI finished school in 1998 with a naja degree which enabled me to start university promptly. In the last years at a charlottenburg gymnasium I was heavily influenced by a german/political science teacher who also held philosopical workgroups where I for example discovered Sartre. Which was not to all ends a good discovery but some my later on developments root here.\nSo I started autumn 98 with germanistik and political science at Freie Universität which I studied for two student years meaning I did not really like heavy wälzers about Fontane advertised (written) by professors themselves or middle high german rubbish or linguistics as such. I changed subject for educational science being working with kids long time and hoping to get into social, educational etc. field like that. So empirical studies and work with data then already started to interest me.\nAfter few years working and studying parallel I found that I am not finishing to anything and that a less affording education would be more appropriate. So I learned being a gardener from 2004 on and since then I am, 2018 earning a bachelor professional degree in cemetary gardening.\n\n\n\nOkay…, but I am not applying as a gardener, nestce-pas? So what happened in between?\nDonc, since around 1997 I was writing “stuff” and circulating within the literary scene of town in a way and got into editing and layout books, presenting first websites with my student account at the FU userpages (which I cannot restore (:) but you roughly imagine a float page of poems like that) and generally was into inventing stories. Like that one here.\nThe major shift happened 2019 when I was stipendiate to the HKW affiliated Whole Life Academy held in Dresden where I applied with a project for publishing an archive of the remains of an old professeur I had the honour to meet over few years and inherited a heap of boxes with paperwork in 2006. Now in the academy reader which was spread around participants I was listed in the participants appendix as being student of Freie Universität probably while mentioning that I formerly studied there and also at that time (since 2015) when I took some years off for the Meisterschule was visiting campus regularly to take hebrew lessons and classes in literature and philosophy. Well I was listed as student in the appendix, so why not become student, really. With the Gärtnermeister in der Tasche I was able to reduce hours at the cemetary and enrolled officially in linguistics, comparative literature and data science; with some the professeures I probably was commilitone back 98… / Smoking was now forbidden in the silberlaube (domage) but else nothing changed except for the blackboard experience."
   },
   {
-    "objectID": "talks/2020-10-07-rlille-rstartup/index.html",
-    "href": "talks/2020-10-07-rlille-rstartup/index.html",
-    "title": "R Lille Meetup (French)",
+    "objectID": "bio.html#wir-haben-uns-hier-zusammengefunden",
+    "href": "bio.html#wir-haben-uns-hier-zusammengefunden",
+    "title": "C.V.",
     "section": "",
-    "text": "Blog post: https://rlille.fr/posts/2020-09-10-debuter-avec-r/.\nMeetup: https://www.meetup.com/R-Lille/events/273159362/.\nSlides: https://m.canouil.dev/slides/20201007-r-startup/.\nCode: https://github.com/mcanouil/rstartup.\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "talks/2023-10-19-gentle-intro-to-quarto/index.html",
-    "href": "talks/2023-10-19-gentle-intro-to-quarto/index.html",
-    "title": "A Gentle Introduction to Quarto",
-    "section": "",
-    "text": "Slides: https://m.canouil.dev/gentle-intro-to-quarto/.\nCode: https://github.com/mcanouil/gentle-intro-to-quarto.\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "talks/2016-02-11-smpgd/index.html",
-    "href": "talks/2016-02-11-smpgd/index.html",
-    "title": "Statistical Methods for Post Genomic Data (SMPGD)",
-    "section": "",
-    "text": "Slides: https://github.com/mcanouil/slides/raw/main/20160211-longitudinal-genetic-modelling/20160211-longitudinal-genetic-modelling.pdf.\nCode: https://github.com/mcanouil/phd-thesis/tree/master/SMPGD2016.\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "talks/2017-09-29-phd/index.html",
-    "href": "talks/2017-09-29-phd/index.html",
-    "title": "Ph.D. Defense (French)",
-    "section": "",
-    "text": "Slides: https://github.com/mcanouil/slides/raw/main/20170929-phd-defense/20170929-phd-defense.pdf.\nCode: https://github.com/mcanouil/phd-thesis/tree/master/BeamerThesis.\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "talks/2021-04-15-rlille-reproducibility/index.html",
-    "href": "talks/2021-04-15-rlille-reproducibility/index.html",
-    "title": "R Lille Meetup",
-    "section": "",
-    "text": "Blog post: https://rlille.fr/posts/2021-03-26-journey-transparency/.\nMeetup: https://www.meetup.com/R-Lille/events/277031496/.\nSlides: https://m.canouil.dev/slides/20210415-journey-reproducibility/.\nCode: https://github.com/mcanouil/journey-reproducibility.\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "snc.html",
-    "href": "snc.html",
-    "title": "SNC",
-    "section": "",
-    "text": "16162.snc\n\nt1\nt3\nhttps://github.com/quarto-dev/quarto-cli/releases/download/v1.9.36/quarto-1.9.36-linux-amd64.deb\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "work.html",
-    "href": "work.html",
-    "title": "Blog",
-    "section": "",
-    "text": "class of 26\n\n\n\nquarto\n\nlinguistics\n\nAVL\n\nlanguage\n\n\n\nforward to sommersemester 2026 class documentations and most recent essais\n\n\n\n\n\nFriday, the 8th of May, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nDH Essais\n\n\n\nprogramming\n\nlinguistics\n\nAVL\n\nwebdesign\n\narchiving\n\nlanguage\n\n\n\nforward to digital humanities recent relevant learnings overview at dahlem center for linguistics project page proposal\n\n\n\n\n\nFriday, the 8th of May, 2026\n\n\n\n\n\nNo matching items\n Back to top"
-  },
-  {
-    "objectID": "talks/2019-01-21-lund-sweden/index.html",
-    "href": "talks/2019-01-21-lund-sweden/index.html",
-    "title": "A Statistical Seminar Applied on Type 2 Diabetes (Host: Pr. Paul Franks)",
-    "section": "",
-    "text": "Slides: https://m.canouil.dev/slides/20190121-joint-model-snp/.\nCode: https://github.com/mcanouil/joint_model.\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "talks/2021-04-14-min2rien-reproducibility/index.html",
-    "href": "talks/2021-04-14-min2rien-reproducibility/index.html",
-    "title": "Min 2 Rien (French)",
-    "section": "",
-    "text": "Blog post: https://www.min2rien.fr/le-reseau-metier-min2rien-organise-sa-semaine-retours-dexperience-2021/.\nSlides: https://m.canouil.dev/slides/20210414-journey-reproducibility/.\nCode: https://github.com/mcanouil/journey-reproducibility.\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "talks/2025-10-08-devcontainer-introduction/index.html",
-    "href": "talks/2025-10-08-devcontainer-introduction/index.html",
-    "title": "Introduction to Development Containers",
-    "section": "",
-    "text": "Slides: https://m.canouil.dev/devcontainer-introduction/.\nCode: https://github.com/mcanouil/devcontainer-introduction.\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "talks/2019-09-06-lausanne-switzerland/index.html",
-    "href": "talks/2019-09-06-lausanne-switzerland/index.html",
-    "title": "Research Seminar",
-    "section": "",
-    "text": "Slides: https://m.canouil.dev/slides/20190906-nacho/.\nCode: https://github.com/mcanouil/NACHO_slides.\n\n\n\n\n Back to top"
+    "text": "no serious. I am halftime to retreat so its not really angebracht to hold a funeral speech yet. But I wanted to deliver kind of summary of what I did and learned so far which could be of interest for future working together - assumed you stumbled here by some link I probably sent one way or another. \nSo…, and I warn you, this will have literary character; I not intend to be economic here. I expect people out reading who still have the capacity to read longer text and are able to translate narratives to facts. Say I will not sell that, but try advertise my expertise in some of the field mentioned in the overviews.\n\n\nI finished school in 1998 with a naja degree which enabled me to start university promptly. In the last years at a charlottenburg gymnasium I was heavily influenced by a german/political science teacher who also held philosopical workgroups where I for example discovered Sartre. Which was not to all ends a good discovery but some my later on developments root here.\nSo I started autumn 98 with germanistik and political science at Freie Universität which I studied for two student years meaning I did not really like heavy wälzers about Fontane advertised (written) by professors themselves or middle high german rubbish or linguistics as such. I changed subject for educational science being working with kids long time and hoping to get into social, educational etc. field like that. So empirical studies and work with data then already started to interest me.\nAfter few years working and studying parallel I found that I am not finishing to anything and that a less affording education would be more appropriate. So I learned being a gardener from 2004 on and since then I am, 2018 earning a bachelor professional degree in cemetary gardening.\n\n\n\nOkay…, but I am not applying as a gardener, nestce-pas? So what happened in between?\nDonc, since around 1997 I was writing “stuff” and circulating within the literary scene of town in a way and got into editing and layout books, presenting first websites with my student account at the FU userpages (which I cannot restore (:) but you roughly imagine a float page of poems like that) and generally was into inventing stories. Like that one here.\nThe major shift happened 2019 when I was stipendiate to the HKW affiliated Whole Life Academy held in Dresden where I applied with a project for publishing an archive of the remains of an old professeur I had the honour to meet over few years and inherited a heap of boxes with paperwork in 2006. Now in the academy reader which was spread around participants I was listed in the participants appendix as being student of Freie Universität probably while mentioning that I formerly studied there and also at that time (since 2015) when I took some years off for the Meisterschule was visiting campus regularly to take hebrew lessons and classes in literature and philosophy. Well I was listed as student in the appendix, so why not become student, really. With the Gärtnermeister in der Tasche I was able to reduce hours at the cemetary and enrolled officially in linguistics, comparative literature and data science; with some the professeures I probably was commilitone back 98… / Smoking was now forbidden in the silberlaube (domage) but else nothing changed except for the blackboard experience."
   },
   {
     "objectID": "projects.html",
@@ -145,5 +124,40 @@
     "title": "DH Essais",
     "section": "",
     "text": "FWB redirect…\n\n FWB &gt; go now to recent relevant learnings.\nthere you’ll find an overview of most has been worked on papers, projects and linked documentation related. not all is in status -finished- so development there is still going on and that page will display recent updates rather than here…\n\n\n\n\n\n\n\nNote\n\n\n\nyou will be redirected…\n\n\n\n\n\n Back to topReuseCC BY-NC-SA 4.0CitationBibTeX citation:@misc{schwarz2026,\n  author = {schwarz, st.},\n  title = {DH {Essais}},\n  date = {2026-05-08},\n  url = {https://esteeschwarz.github.io/portfolio/posts/2026-05-08-dcl-re/},\n  langid = {en-GB}\n}\nFor attribution, please cite this work as:\nschwarz, st. (2026, May 8). DH Essais.\nEsteeschwarz.github.io/Portfolio. https://esteeschwarz.github.io/portfolio/posts/2026-05-08-dcl-re/"
+  },
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Blog",
+    "section": "",
+    "text": "DH Essais\n\n\n\nprogramming\n\nlinguistics\n\nAVL\n\nwebdesign\n\narchiving\n\nlanguage\n\n\n\nforward to digital humanities recent relevant learnings overview at dahlem center for linguistics project page proposal\n\n\n\n\n\nFriday, the 8th of May, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nclass of 26\n\n\n\nquarto\n\nlinguistics\n\nAVL\n\nlanguage\n\n\n\nforward to sommersemester 2026 class documentations and most recent essais\n\n\n\n\n\nFriday, the 8th of May, 2026\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
+    "objectID": "talks/2021-04-15-rlille-reproducibility/index.html",
+    "href": "talks/2021-04-15-rlille-reproducibility/index.html",
+    "title": "R Lille Meetup",
+    "section": "",
+    "text": "Blog post: https://rlille.fr/posts/2021-03-26-journey-transparency/.\nMeetup: https://www.meetup.com/R-Lille/events/277031496/.\nSlides: https://m.canouil.dev/slides/20210415-journey-reproducibility/.\nCode: https://github.com/mcanouil/journey-reproducibility.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "talks/2016-02-11-smpgd/index.html",
+    "href": "talks/2016-02-11-smpgd/index.html",
+    "title": "Statistical Methods for Post Genomic Data (SMPGD)",
+    "section": "",
+    "text": "Slides: https://github.com/mcanouil/slides/raw/main/20160211-longitudinal-genetic-modelling/20160211-longitudinal-genetic-modelling.pdf.\nCode: https://github.com/mcanouil/phd-thesis/tree/master/SMPGD2016.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "talks/2017-09-29-phd/index.html",
+    "href": "talks/2017-09-29-phd/index.html",
+    "title": "Ph.D. Defense (French)",
+    "section": "",
+    "text": "Slides: https://github.com/mcanouil/slides/raw/main/20170929-phd-defense/20170929-phd-defense.pdf.\nCode: https://github.com/mcanouil/phd-thesis/tree/master/BeamerThesis.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "talks/2021-04-14-min2rien-reproducibility/index.html",
+    "href": "talks/2021-04-14-min2rien-reproducibility/index.html",
+    "title": "Min 2 Rien (French)",
+    "section": "",
+    "text": "Blog post: https://www.min2rien.fr/le-reseau-metier-min2rien-organise-sa-semaine-retours-dexperience-2021/.\nSlides: https://m.canouil.dev/slides/20210414-journey-reproducibility/.\nCode: https://github.com/mcanouil/journey-reproducibility.\n\n\n\n\n Back to top"
   }
 ]

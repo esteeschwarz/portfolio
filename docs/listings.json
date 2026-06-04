@@ -1,13 +1,13 @@
 [
   {
-    "listing": "/work.html",
-    "items": [
-      "/posts/2026-05-08-ss26/index.html",
-      "/posts/2026-05-08-dcl-re/index.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": []
+  },
+  {
+    "listing": "/work.html",
+    "items": [
+      "/posts/2026-05-08-dcl-re/index.html",
+      "/posts/2026-05-08-ss26/index.html"
+    ]
   }
 ]
