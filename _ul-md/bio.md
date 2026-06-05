@@ -1,0 +1,23 @@
+
+## wir haben uns hier zusammengefunden...
+no serious. I am halftime to retreat so its not really angebracht to hold a funeral speech yet. But I wanted to deliver kind of summary of what I did and learned so far which could be of interest for future working together - assumed you stumbled here by some link I probably sent one way or another.
+<!-- if youre reading in the code: this is selfunderstoodedly not yet finished haha, its a task and life gets longer everyday so theres more to add... -->
+
+So..., and I warn you, this will have literary character; I not intend to be economic here. I expect people out reading who still have the capacity to read longer text and are able to translate narratives to facts. Say I will not sell that, but try advertise my expertise in some of the field mentioned in the overviews.
+
+### first
+I finished school in 1998 with a naja degree which enabled me to start university promptly. In the last years at a charlottenburg gymnasium I was heavily influenced by a german/political science teacher who also held philosopical workgroups where I for example discovered Sartre. Which was not to all ends a good discovery but some my later on developments root here.
+
+So I started autumn 98 with germanistik and political science at Freie Universität which I studied for two student years meaning I did not really like heavy wälzers about Fontane advertised (written) by professors themselves or middle high german rubbish or linguistics as such. I changed subject for educational science being working with kids long time and hoped to get into social, educational etc. field like that. Thus empirical studies and work with data then already started to interest me.
+
+After few years working and studying parallel I found that I am not finishing to anything and that a less affording education would be more appropriate. So I learned being a gardener from 2004 on and since then I am, 2018 earning a bachelor professional degree in cemetary gardening.
+
+### now what else
+Okay..., but I am not applying as a gardener, nestce-pas? So what happened in between?
+
+Donc, since around 1997 I was writing "stuff" and circulating within the literary scene of town in a way and got into editing and layout books, presenting first websites with my student account at the FU userpages (which I cannot restore (:) but you roughly imagine a float page of poems like that) and generally was into inventing stories. Like that one here.
+
+The major shift happened 2019 when I was stipendiate to the HKW affiliated *Whole Life Academy* held in Dresden where I applied with a project of publishing an archive of the remains of an old professeur I had the honour to meet over few years and inherited a heap of boxes with paperwork in 2006. Now in the academy reader which was spread among participants I was listed in the participants appendix as being *student of Freie Universität* probably while mentioning that I formerly studied there and also at that time (since 2015) when I took some years off for the Meisterschule was visiting campus regularly to take hebrew lessons and classes in literature and philosophy. Well I was listed as student in the appendix, so why not become student, really. With the Gärtnermeister in der Tasche I was able to reduce hours at the cemetary and enrolled officially part-time student in linguistics, comparative literature and data science; to some the professeures I probably was commilitone back 98... / Smoking was now forbidden in the silberlaube (domage) but else nothing has changed except for the blackboard experience.
+
+## the bauarbeiter participating
+In the course of the studies I soon focused on all subjects related to corpora and archives and developed skills in building and exploring these. In some BUA class situated in the Charite and concerned with figurative language / mental disease I discovered the programming language R and RStudio as a migty tool to evaluate a psycholinguistic experiment and from then continuously developed skills in coding for statistics, steadily growing knowledge within the R ecosystem including publishing for papers, apps and websites. I was not using word or pages anymore since I discovered markdown longer ago and now that made total sense as documents easily could be turned into complex evaluation papers with Rmarkdown and such. Most of times when doing a paper I start with a template and finalise that to acceptable output with all things necessary and just include the placeholded content by time. So at the end I am not struggling with bibs and layout after having finished primaere but instead write content til last minute and just *print* on deadline.
