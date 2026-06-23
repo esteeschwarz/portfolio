@@ -54,27 +54,13 @@ about:
 
 :::: {.about-body}
 
-I am a linguistics and comparative literature student researcher specialised in __*corpus & discourse linguistics, distant reading methods and data analysis*__ and a __*programmer*__ within the R ecosystem.  
-I combine expertise in programming and data analysis with a fascination for archives, languages, literature and math resp. statistics bridging academic/private research within the broad field of the __*Digital Humanies*__.</del>
+I am a linguistics and comparative literature student researcher specialised in __*corpus & discourse linguistics, distant reading methods and data analysis*__ and a __*programmer*__ within the R ecosystem.
+
+I combine dilettantism in programming and data analysis with a fascination for archives, languages, literature and math resp. statistics bridging academic/private research within the broad field of the __*Digital Humanies*__.</del>
 
 :::: {.highlight}
 
 I am __*available*__ for both short-term and extended engagements on __*projects related to below skills and interests*__.
-
-<!-- :::
-
-I also enjoy watching movies (![](https://raw.githubusercontent.com/mcanouil/imdb-ratings/main/media/imdb.svg){fig-alt="Movies seen count"}) and playing with {{< iconify fa7-brands:r-project title="R" label="R" >}}.
-
-:::: {.light-content}
-
-![Source: [github.com/mcanouil/imdb-ratings](https://github.com/mcanouil/imdb-ratings)](https://raw.githubusercontent.com/mcanouil/imdb-ratings/main/media/streak-light.svg){fig-alt="Movies seen in a movie theatre year streak" .img-styled .nolightbox}
-
-:::
-
-:::: {.dark-content}
-
-![Source: [github.com/mcanouil/imdb-ratings](https://github.com/mcanouil/imdb-ratings)](https://raw.githubusercontent.com/mcanouil/imdb-ratings/main/media/streak-dark.svg){fig-alt="Movies seen in a movie theatre year streak" .img-styled .nolightbox}
- -->
 :::
 
 ## {{< iconify octicon:briefcase-24 >}} What I Do
@@ -84,74 +70,16 @@ If I come to a really interesting task, i can spend much effort into developing 
 
 :::: {.highlight}
 
-__see link in__ [projects](projects.qmd).
-
-<!-- :::
-
-I have published 49 peer-reviewed papers in top-tier journals including Nature and Nature Genetics, with my most recent [co-last author publication in Nature Communications (2024)](https://doi.org/10.1038/s41467-024-53687-3) presenting a framework for GWAS[^gwas] using repeated measures data.
-
-[^gwas]: Genome-Wide Association Studies. -->
-
-<!-- ## {{< iconify octicon:code-24 >}} Open Source Contributions -->
-
-<!-- :::: {.highlight}
-
-Creator of the __*[Quarto Extensions Directory](https://m.canouil.dev/quarto-extensions/)*__, __*[Quarto Wizard](https://github.com/mcanouil/quarto-wizard)*__ Visual Studio Code extension, and __*[Awesome Quarto](https://github.com/mcanouil/awesome-quarto)*__ repository, with __*15+ Quarto extensions*__ developed.
+__see linked in__ [projects](projects.qmd) and [work](work.qmd).
 
 :::
+## {{< iconify octicon:mortar-board-24 >}} CV / BIO
 
-I have developed a few {{< iconify fa7-brands:r-project title="R" label="R" >}}&nbsp;packages (_e.g._,&nbsp;[insane](https://github.com/mcanouil/insane), [NACHO](https://github.com/mcanouil/NACHO)), and although some are not very useful, they are most definitely entertaining (_i.e._,&nbsp;[ggpacman](https://github.com/mcanouil/ggpacman)).
+:::: {.highlight}
 
-I created the [Quarto Extensions Directory](https://m.canouil.dev/quarto-extensions/), the [Quarto Wizard](https://github.com/mcanouil/quarto-wizard) Visual Studio Code extension, and have developed 15+ Quarto extensions.
-My [Awesome Quarto repository](https://github.com/mcanouil/awesome-quarto) serves as a comprehensive resource for the Quarto community. -->
+__short read__ [CV](cv.qmd).
 
-:::
-## {{< iconify octicon:mortar-board-24 >}} Teaching
+__long read__ [BIO](bio.qmd).
 
-I have developed class tutorial workflows covering archiving and building upon corpora from digitized written and spoken material.
-
-## {{< iconify octicon:tools-24 >}} Technical Skills {.interests}
-
-- content management
-- layout / editorial work
-- TEI conventional corpus building oral/written sources
-- correctorat
-- R
-- Rust
-- iOS/Mac app development
-- server administration, webdesign
-- french+, russian- / hebrew- language
-
-
-## {{< iconify octicon:star-24 >}} Interests {.interests}
-
-- corpus linguistics
-- discourse analysis
-- archiving
-- data analysis & visualisation, QDA
-- reproducible / open source research
-- distant reading approaches to literature
-- general: computational linguistics and DH
-
-## {{< iconify octicon:mortar-board-24 >}} Education {.education}
-
-- **Studium** (*Linguistik, Komparatistik; B.A.*), **2025-**  
-  *FUB*
-
-- **Studium** (*Linguistik, Komparatistik, Hebräisch; B.A.*), **2023-2025**  
-  *FUB*
-
-- **Studium** (*Linguistik, Komparatistik, Informatik; B.A.*), **2019-2023**  
-  *FUB*
-
-- **Gärtnermeister** (*Friedhofsgartenbau*), **2018**  
-
-- **Ausbildung** (*Zierpflanzenbau*), **2005-2008**  
-
-- **Studium** (*Politikwissenschaften, Psychologie, Erziehungswissenschaften; M.A.*), **2000-2003**  
-  *Fernuniversität in Hagen*
-
-- **Studium** (*Germanistik, Politikwissenschaften; Lehramt*), **1998-2000**  
-  *FUB*
 
 :::

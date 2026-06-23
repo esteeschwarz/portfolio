@@ -1,5 +1,5 @@
 ---
-title: "C.V."
+title: "BIO"
 title-block-banner: true
 image: /assets/images/social-profile.png
 # listing:
@@ -13,9 +13,11 @@ image: /assets/images/social-profile.png
 #     language: en-gb
 ---
 
+{{< include _comeback.md >}}
+
 ## wir haben uns hier zusammengefunden...
 no serious. I am halftime to retreat so its not really angebracht to hold a funeral speech yet. But I wanted to deliver kind of summary of what I did and learned so far which could be of interest for future working together - assumed you stumbled here by some link I probably sent one way or another.
-<!-- if youre reading in the code: this is selfunderstoodedly not yet finished haha, its a task and life gets longer everyday so theres more to add... -->
+<!-- if youre reading in the code: this is selfunderstoodedly not yet finished haha, its a task and life gets longer everyday so theres more to live... -->
 
 So..., and I warn you, this will have literary character; I not intend to be economic here. I expect people out reading who still have the capacity to read longer text and are able to translate narratives to facts. Say I will not sell that, but try advertise my expertise in some of the field mentioned in the overviews.
 

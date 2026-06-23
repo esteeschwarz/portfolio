@@ -1,0 +1,51 @@
+# CV
+## {{< iconify octicon:mortar-board-24 >}} Teaching
+
+I have developed class tutorial workflows covering archiving and building upon corpora from digitized written and spoken material.
+
+## {{< iconify octicon:tools-24 >}} Technical Skills {.interests}
+
+- content management
+- layout / editorial work
+- TEI conventional corpus building oral/written sources
+- correctorat
+- R
+- Rust
+- iOS/Mac app development
+- server administration, webdesign
+- french+, russian- / hebrew- language
+
+
+## {{< iconify octicon:star-24 >}} Interests {.interests}
+
+- corpus linguistics
+- discourse analysis
+- structural grammar theories
+- archiving
+- data analysis & visualisation, QDA
+- reproducible / open source research
+- distant reading approaches to literature
+- general: computational linguistics and DH
+
+## {{< iconify octicon:mortar-board-24 >}} Education {.education}
+
+- **Studium** (*Linguistik, Komparatistik; B.A.*), **2025-**  
+  *FUB*
+
+- **Studium** (*Linguistik, Komparatistik, Hebräisch; B.A.*), **2023-2025**  
+  *FUB*
+
+- **Studium** (*Linguistik, Komparatistik, Informatik; B.A.*), **2019-2023**  
+  *FUB*
+
+- **Gärtnermeister** (*Friedhofsgartenbau*), **2018**  
+
+- **Ausbildung** (*Zierpflanzenbau*), **2005-2008**  
+
+- **Studium** (*Politikwissenschaften, Psychologie, Erziehungswissenschaften; M.A.*), **2000-2003**  
+  *Fernuniversität in Hagen*
+
+- **Studium** (*Germanistik, Politikwissenschaften; Lehramt*), **1998-2000**  
+  *FUB*
+
+:::

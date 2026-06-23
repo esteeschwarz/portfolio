@@ -44,6 +44,12 @@ website:
         href: work.qmd
       - text: projects
         href: projects.qmd
+      - text: bio
+        menu:
+           - text: short
+             href: cv.qmd
+           - text: long
+             href: bio.qmd 
       - snc.qmd
       # - text: Talks
       #   href: talks.qmd

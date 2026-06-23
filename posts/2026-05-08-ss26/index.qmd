@@ -1,7 +1,7 @@
 ---
 title: "class of 26"
 description: |
-  forward to sommersemester 2026 class documentations and most recent essais
+  forward to sommersemester 2026 class documentations and most recent essais in grammar, AI and nietzsche.
 date: "2026-05-08"
 categories:
   - quarto
@@ -44,7 +44,7 @@ fadenlogo: '[]{.fadenlogo title="rotefaden Logo" aria-label="rotefaden Logo"}'
 
 **{{< meta fadenlogo >}} FWB** > go now to __*[SS26 class docs](https://esteeschwarz.github.io/SPUND-LX/pages/004/about.html)*__. 
 
-there you'll find an overview of summersemester 2026 papers, essais, projects and linked documentation related. this is all in-progress and documenting recent research and studies.
+there you'll find an overview of summersemester 2026 papers, essais, projects and linked documentation related. this is all in-progress and documenting recent research and studies covering first essais in model training, Nietzsche reception, lexical functional grammar (LFG) and general tech-related stuff.
 :::
 
 ::: {.callout-note}

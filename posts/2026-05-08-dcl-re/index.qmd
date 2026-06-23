@@ -57,7 +57,7 @@ fadenlogo: '[]{.fadenlogo title="rotefaden Logo" aria-label="rotefaden Logo"}'
 
 **{{< meta fadenlogo >}} FWB** > go now to __*[recent relevant learnings](https://esteeschwarz.github.io/DC-LX/blog/)*__. 
 
-there you'll find an overview of most has been worked on papers, projects and linked documentation related. not all is in status *-finished-* so development there is still going on and that page will display recent updates rather than here...
+there you'll find an overview of most has been worked on papers, projects and linked documentation related. not all is in status *-finished-* so development there is still going on and that page will display recent updates rather than here... / the really up-to-date learnings are covered in the class 2026 pages [here](2026-05-08-ss26).
 :::
 
 ::: {.callout-note}
