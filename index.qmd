@@ -60,7 +60,7 @@ I combine dilettantism in programming and data analysis with a fascination for a
 
 :::: {.highlight}
 
-I am __*available*__ for both short-term and extended engagements on __*projects related to below skills and interests*__.
+I am __*available*__ for both short-term and extended engagements on __*projects related to skills and interests listed in CV/BIO*__.
 :::
 
 ## {{< iconify octicon:briefcase-24 >}} What I Do

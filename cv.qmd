@@ -1,7 +1,7 @@
 # CV
 ## {{< iconify octicon:mortar-board-24 >}} Teaching
 
-I have developed class tutorial workflows covering archiving and building upon corpora from digitized written and spoken material.
+I have developed class tutorial workflows covering archiving and building upon corpora from digitized written and spoken material. Much earlier (~2001) I was leading a kids computer workshop where we build an online hyperlink book (sic! 2001...) and generally was assisting handicapped or not kids to learning or simply having a good time... 
 
 ## {{< iconify octicon:tools-24 >}} Technical Skills {.interests}
 
@@ -48,4 +48,4 @@ I have developed class tutorial workflows covering archiving and building upon c
 - **Studium** (*Germanistik, Politikwissenschaften; Lehramt*), **1998-2000**  
   *FUB*
 
-:::
+
