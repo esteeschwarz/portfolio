@@ -1,18 +1,18 @@
 # CV
 ## {{< iconify octicon:mortar-board-24 >}} Teaching
 
-I have developed class tutorial workflows covering archiving and building upon corpora from digitized written and spoken material. Much earlier (~2001) I was leading a kids computer workshop where we build an online hyperlink book (sic! 2001...) and generally was assisting handicapped or not kids to learning or simply having a good time... 
+I have developed class tutorial workflows covering archiving and building upon corpora from digitized written and spoken material. Much earlier (~2001) I was leading a kids computer workshop where we built an online hyperlink book (sic! 2001...) and generally was assisting handicapped or not kids to learning or simply having a good time... 
 
 ## {{< iconify octicon:tools-24 >}} Technical Skills {.interests}
 
-- content management
-- layout / editorial work
-- TEI conventional corpus building oral/written sources
+- content management (wordpress, github frameworks)
+- layout / editorial work (quark express, quarto, rmarkdown)
+- TEI conventional corpus building oral/written sources (dracor, C.W. Pfaff archiving assistant)
 - correctorat
 - R
-- Rust
-- iOS/Mac app development
-- server administration, webdesign
+- bit of Rust/Python
+- (gpt assisted) iOS/Mac app development
+- basic server administration
 - french+, russian- / hebrew- language
 
 
@@ -25,6 +25,7 @@ I have developed class tutorial workflows covering archiving and building upon c
 - data analysis & visualisation, QDA
 - reproducible / open source research
 - distant reading approaches to literature
+  - but also really reading... 
 - general: computational linguistics and DH
 
 ## {{< iconify octicon:mortar-board-24 >}} Education {.education}
