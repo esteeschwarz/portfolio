@@ -1,67 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://esteeschwarz.github.io/portfolio/talks/2019-09-06-lausanne-switzerland/index.html</loc>
-    <lastmod>2026-06-04T03:52:39.380Z</lastmod>
-  </url>
-  <url>
-    <loc>https://esteeschwarz.github.io/portfolio/talks/2025-10-08-devcontainer-introduction/index.html</loc>
-    <lastmod>2026-06-04T03:52:39.386Z</lastmod>
-  </url>
-  <url>
-    <loc>https://esteeschwarz.github.io/portfolio/talks/2023-10-19-gentle-intro-to-quarto/index.html</loc>
-    <lastmod>2026-06-04T03:52:39.385Z</lastmod>
-  </url>
-  <url>
-    <loc>https://esteeschwarz.github.io/portfolio/talks/2019-01-21-lund-sweden/index.html</loc>
-    <lastmod>2026-06-04T03:52:39.380Z</lastmod>
-  </url>
-  <url>
-    <loc>https://esteeschwarz.github.io/portfolio/talks/2020-10-07-rlille-rstartup/index.html</loc>
-    <lastmod>2026-06-04T03:52:39.381Z</lastmod>
-  </url>
-  <url>
-    <loc>https://esteeschwarz.github.io/portfolio/posts/2026-05-08-ss26/index.html</loc>
-    <lastmod>2026-06-04T03:52:39.172Z</lastmod>
-  </url>
-  <url>
-    <loc>https://esteeschwarz.github.io/portfolio/snc.html</loc>
-    <lastmod>2026-06-04T03:52:39.373Z</lastmod>
-  </url>
-  <url>
     <loc>https://esteeschwarz.github.io/portfolio/index.html</loc>
-    <lastmod>2026-06-04T03:52:39.171Z</lastmod>
-  </url>
-  <url>
-    <loc>https://esteeschwarz.github.io/portfolio/bio.html</loc>
-    <lastmod>2026-06-04T03:52:39.171Z</lastmod>
-  </url>
-  <url>
-    <loc>https://esteeschwarz.github.io/portfolio/projects.html</loc>
-    <lastmod>2026-06-04T03:52:39.309Z</lastmod>
-  </url>
-  <url>
-    <loc>https://esteeschwarz.github.io/portfolio/posts/2026-05-08-dcl-re/index.html</loc>
-    <lastmod>2026-06-04T03:52:39.171Z</lastmod>
+    <lastmod>2026-06-24T12:07:32.988Z</lastmod>
   </url>
   <url>
     <loc>https://esteeschwarz.github.io/portfolio/work.html</loc>
-    <lastmod>2026-06-04T03:52:39.386Z</lastmod>
+    <lastmod>2026-06-24T12:07:33.267Z</lastmod>
   </url>
   <url>
-    <loc>https://esteeschwarz.github.io/portfolio/talks/2021-04-15-rlille-reproducibility/index.html</loc>
-    <lastmod>2026-06-04T03:52:39.383Z</lastmod>
+    <loc>https://esteeschwarz.github.io/portfolio/posts/2026-05-08-ss26/index.html</loc>
+    <lastmod>2026-06-24T12:07:32.989Z</lastmod>
   </url>
   <url>
-    <loc>https://esteeschwarz.github.io/portfolio/talks/2016-02-11-smpgd/index.html</loc>
-    <lastmod>2026-06-04T03:52:39.376Z</lastmod>
-  </url>
-  <url>
-    <loc>https://esteeschwarz.github.io/portfolio/talks/2017-09-29-phd/index.html</loc>
-    <lastmod>2026-06-04T03:52:39.379Z</lastmod>
+    <loc>https://esteeschwarz.github.io/portfolio/projects.html</loc>
+    <lastmod>2026-06-24T12:07:33.166Z</lastmod>
   </url>
   <url>
     <loc>https://esteeschwarz.github.io/portfolio/talks/2021-04-14-min2rien-reproducibility/index.html</loc>
-    <lastmod>2026-06-04T03:52:39.382Z</lastmod>
+    <lastmod>2026-06-24T12:07:33.261Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esteeschwarz.github.io/portfolio/talks/2020-10-07-rlille-rstartup/index.html</loc>
+    <lastmod>2026-06-24T12:07:33.260Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esteeschwarz.github.io/portfolio/talks/2016-02-11-smpgd/index.html</loc>
+    <lastmod>2026-06-24T12:07:33.253Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esteeschwarz.github.io/portfolio/talks/2019-09-06-lausanne-switzerland/index.html</loc>
+    <lastmod>2026-06-24T12:07:33.259Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esteeschwarz.github.io/portfolio/talks/2017-09-29-phd/index.html</loc>
+    <lastmod>2026-06-24T12:07:33.257Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esteeschwarz.github.io/portfolio/talks/2025-10-08-devcontainer-introduction/index.html</loc>
+    <lastmod>2026-06-24T12:07:33.267Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esteeschwarz.github.io/portfolio/talks/2021-04-15-rlille-reproducibility/index.html</loc>
+    <lastmod>2026-06-24T12:07:33.262Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esteeschwarz.github.io/portfolio/talks/2023-10-19-gentle-intro-to-quarto/index.html</loc>
+    <lastmod>2026-06-24T12:07:33.265Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esteeschwarz.github.io/portfolio/talks/2019-01-21-lund-sweden/index.html</loc>
+    <lastmod>2026-06-24T12:07:33.259Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esteeschwarz.github.io/portfolio/snc.html</loc>
+    <lastmod>2026-06-24T12:07:33.249Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esteeschwarz.github.io/portfolio/cv.html</loc>
+    <lastmod>2026-06-24T12:07:32.988Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esteeschwarz.github.io/portfolio/posts/2026-05-08-dcl-re/index.html</loc>
+    <lastmod>2026-06-24T12:07:32.989Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esteeschwarz.github.io/portfolio/bio.html</loc>
+    <lastmod>2026-06-24T12:07:32.988Z</lastmod>
   </url>
 </urlset>
